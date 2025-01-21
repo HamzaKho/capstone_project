@@ -1,10 +1,9 @@
-from get_token import get_token, get_auth_header
+from .get_token import get_token, get_auth_header
 from requests import post, get
 import pandas as pd
 
 #generate token and authorization header
 token = get_token()
-
 
 #retrieve top 100 tracks from each region
 
@@ -50,11 +49,12 @@ def extract_data(token):
     df = pd.DataFrame(all_data)
     return df
 
-if __name__ == "__main__":
+def extract():
     try:
         df_tracks = extract_data(token)
         df_tracks.to_csv("etl/data/top_tracks.csv", index=False)
         print("Data saved to top_tracks.csv")
     except Exception as e:
         print(f"An error occurred: {e}")
+    
     
