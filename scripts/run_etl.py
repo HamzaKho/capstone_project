@@ -7,9 +7,12 @@ sys.path.append(str(project_root))
 
 from etl.extract.extract import extract
 from etl.load.load import load
-#from etl.transform.transform import transform
+from etl.transform.transform import transform
 
 if __name__ == "__main__":
+    print('Starting Extraction...')
     extract()
-    #transform()
+    print('Starting Transformation...')
+    transform()
+    print('Starting Loading...')
     load()

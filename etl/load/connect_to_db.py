@@ -11,7 +11,7 @@ db_port = os.getenv("DB_PORT")
 
 def connect_to_db():
     engine = create_engine(f"postgresql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}")
-    print("succesfully connected to db")
+    print("Succesfully connected to database")
     return engine
 
 connect_to_db()
