@@ -6,7 +6,7 @@ def load():
     #connect to db
     engine = connect_to_db()
     # Load the data
-    filename = "top_tracks.csv"
+    filename = "top_tracks_transformed.csv"
     df = pd.read_csv(f'etl/data/{filename}')
     #save to table
     save_to_db(df, "hamza_capstone", engine, "student")

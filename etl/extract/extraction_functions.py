@@ -34,3 +34,4 @@ def extract_data(token,region_playlists):
         all_data.extend(tracks)
     df = pd.DataFrame(all_data)
     return df
+
