@@ -9,10 +9,13 @@ token = get_token()
 
 region_playlists = {
     "Global": "6UeSakyzhiEt4NB3UAd6NQ",
-    "UK": "4OIVU71yO7SzyGrh0ils2i",
+    "UK": "1Kb8loAQltNxTEG4DPV54F",
     "USA": "16wsvPYpJg1dmLhz0XTOmX",
     "Australia": "4eNlFzz2vIIYIGI3wzYMF0",
-    "Spain": "2w90Jrb5nmYNzUYqv7DdBy"
+    "Spain": "2w90Jrb5nmYNzUYqv7DdBy",
+    "Mexico": "4clD5EEpajSu8uwoge83ls",
+    'Brazil': "6MPUh2rB69qaT1guwSMOq7",
+    "Portugal": "0FMAAt4KT6nYmLj3rwWIxo"
 }
 
 def extract():

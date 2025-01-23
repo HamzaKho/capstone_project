@@ -27,7 +27,7 @@ def get_playlist_tracks(playlist, token):
 def extract_data(token,region_playlists):
     all_data=[]
     for region in region_playlists:
-        print(f"Fetching top 100 tracks for {region}...")
+        print(f"Fetching top tracks for {region}...")
         tracks = get_playlist_tracks(region_playlists[region],token)
         for track in tracks:
             track["region"] = region

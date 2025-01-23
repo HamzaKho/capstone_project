@@ -1,311 +1,544 @@
-track_name,artist_name,album_name,release_date,popularity,track_id,region,features
-Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Global,['Bruno Mars']
-A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,85,2FQrifJ1N335Ljm3TjTVVf,Global,[]
-BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,Global,[]
-Smile,Morgan Wallen,Smile,2024-12-31,83,3MJ6lFNV12FSHAOzTzkwxz,Global,[]
-APT.,ROSÉ,APT.,2024-10-18,96,5vNRhkKd0yEAg8suGBpjeY,Global,['Bruno Mars']
-Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Global,[]
-luther,Kendrick Lamar,GNX,2024-11-22,90,45J4avUb9Ni0bnETYaYFVJ,Global,['SZA']
-That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,96,7ne4VBA60CxGM75vw0EYad,Global,[]
-I Had Some Help,Post Malone,I Had Some Help,2024-05-10,82,7221xIgOnuakPdLqT0F3nP,Global,['Morgan Wallen']
-Espresso,Sabrina Carpenter,Espresso,2024-04-12,88,2qSkIjg1o9h3YT9RAgYN75,Global,[]
-tv off,Kendrick Lamar,GNX,2024-11-22,91,0aB0v4027ukVziUGwVGYpG,Global,['Lefty Gunplay']
-Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,90,5G2f63n7IPVPPjfNIGih7Q,Global,[]
-Love Somebody,Morgan Wallen,Love Somebody,2024-10-18,85,7hR22TOX3RorxJPcsz5Wbo,Global,[]
-Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,Global,[]
-Timeless,The Weeknd,Timeless,2024-09-27,92,1Es7AUAhQvapIcoh3qMKDL,Global,['Playboi Carti']
-"Dum, Dumb, and Dumber",Lil Baby,WHAM (Extended Version),2025-01-10,73,4IKvw1OdeTJIN3g4zWE38f,Global,"['Young Thug', 'Future']"
-Too Sweet,Hozier,Unheard,2024-03-22,76,4IadxL6BUymXlh8RCJJu7T,Global,[]
-Sticky,Tyler,CHROMAKOPIA,2024-10-28,89,3tFed7YsjGnIfxeLEQwx3R,Global,"['The Creator', 'GloRilla', 'Sexyy Red', 'Lil Wayne']"
-squabble up,Kendrick Lamar,GNX,2024-11-22,88,0nj9Bq5sHDiTxSHunhgkFb,Global,[]
-Stargazing,Myles Smith,Stargazing,2024-05-10,86,3Vr3zh0r7ALn8VLqCiRR10,Global,[]
-"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,Global,[]
-30 For 30,SZA,SOS Deluxe: LANA,2024-12-20,85,3aSWXU6owkZeVhh94XxEWO,Global,['Kendrick Lamar']
-Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,87,6AI3ezQ4o3HUoP6Dhudph3,Global,[]
-Messy,Lola Young,Messy,2024-05-30,88,3SKH53SPQbEnZR4cJPVaz2,Global,[]
-High Road,Koe Wetzel,High Road (feat. Jessie Murph),2024-06-07,72,73KAidtqbDftZjy8AD0H04,Global,['Jessie Murph']
-WHATCHU KNO ABOUT ME,GloRilla,WHATCHU KNO ABOUT ME (with Sexyy Red),2024-10-10,75,4VI2Y5xg4gYynQqNQNQbTN,Global,['Sexyy Red']
-NUEVAYoL,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,93,5TFD2bmFKGhoCRbX61nXY5,Global,[]
-BAILE INoLVIDABLE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,94,2lTm559tuIvatlT1u0JYG2,Global,[]
-Tweaker,G3 GELO,Tweaker,2025-01-03,80,5nk6BxN9bM5rLNkA3pMOzn,Global,[]
-Sailor Song,Gigi Perez,Sailor Song,2024-07-26,49,0UYnhUfnUj5adChuAXvLUB,Global,[]
-Wind Up Missin' You,Tucker Wetmore,Wind Up Missin' You,2024-03-29,20,5JRYVSZ6K2jY0kznYBmoqr,Global,[]
-Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,84,5N3hjp1WNayUPZrA8kJmJP,Global,[]
-I Am Not Okay,Jelly Roll,I Am Not Okay,2024-06-12,44,76ODTQOl0JZQbhfxs6nRV9,Global,[]
-BMF,SZA,SOS Deluxe: LANA,2024-12-20,89,3U3hFkMr0Q90pD24EkE3Pr,Global,[]
-Bed Chem,Sabrina Carpenter,Short n' Sweet,2024-08-23,87,1UHS8Rf6h5Ar3CDWRd3wjF,Global,[]
-VOY A LLeVARTE PA PR,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,92,59D4DOkspUbWyMmbAPQkxZ,Global,[]
-EL CLúB,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,0iKo4pNNjHHdKUcFARlfCa,Global,[]
-DtMF,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,96,3sK8wGT43QFpWrvNQsrQya,Global,[]
-Who,Jimin,MUSE,2024-07-19,90,7tI8dRuH2Yc6RuoTjxo4dU,Global,[]
-MILLION DOLLAR BABY,Tommy Richman,MILLION DOLLAR BABY,2024-04-26,87,5AJ9hqTS2wcFQCELCFRO7A,Global,[]
-WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,Global,[]
-Lies Lies Lies,Morgan Wallen,Lies Lies Lies,2024-07-05,80,7Fzl7QaTu47WyP9R5S5mh5,Global,[]
-VeLDÁ,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,91,7d6yK8v8J484SWH5prIQiE,Global,"['Omar Courtz', 'Dei V']"
-By Myself,Lil Baby,WHAM (Extended Version),2025-01-10,65,4pnwBTwGbXdZYgPhYJPRsr,Global,"['Rylo Rodriguez', 'Rod Wave']"
-PERFuMITO NUEVO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,1Q9Efnm5csdCMFynISxL2x,Global,['RaiNao']
-Like Him,Tyler,CHROMAKOPIA,2024-10-28,90,6jbYpRPTEFl1HFKHk1IC0m,Global,"['The Creator', 'Lola Young']"
-Pink Pony Club,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,85,1k2pQc5i348DCHwbn5KTdc,Global,[]
-No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,Global,[]
-Liar,Jelly Roll,Beautifully Broken,2024-10-10,75,0llPOBVoJYDAtdmVlNE41A,Global,[]
-Outfit,Lil Baby,WHAM (Extended Version),2025-01-10,70,6B2FtBtIds4rqeLPTW0D76,Global,['21 Savage']
-Stuff,Lil Baby,WHAM (Extended Version),2025-01-10,77,6JvIjI8H3yxpigROd3Cv9N,Global,['Travis Scott']
-WELTiTA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,5WEF0icHWmAZBBMglBd599,Global,['Chuwi']
-Redbone,Lil Baby,WHAM (Extended Version),2025-01-10,64,7nP8jrKvubPXbVHE52OPdo,Global,['GloRilla']
-EoO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,6J5kc12BW5HuP3d7C3vvx8,Global,[]
-I Never Lie,Zach Top,Cold Beer & Country Music,2024-04-05,79,3t6gUcGYLrUuqwpXjOFWQc,Global,[]
-I'm Gonna Love You,Cody Johnson,How Do You Sleep At Night?,2024-10-11,40,3C94TlV5KIavC4EjzK2AHf,Global,['Carrie Underwood']
-F U 2x,Lil Baby,WHAM (Extended Version),2025-01-10,68,2ubNuGSCWRRxUfojPRebiA,Global,[]
-4×4×U,Lainey Wilson,4×4×U,2024-07-04,59,0ZHdP6TzcInPSdQwQ1fkBZ,Global,[]
-KETU TeCRÉ,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,88,4c2Pc0NrfkesPR0jff6q3F,Global,[]
-PIToRRO DE COCO,Bad Bunny,PIToRRO DE COCO,2024-12-26,77,1OSOHTBFkIkhUtxhOyUksc,Global,[]
-Indigo,Sam Barber,Restless Mind,2024-11-01,83,1KZG1H1OCugGqIRmk1wF9m,Global,['Avery Anna']
-Loco,Neton Vega,Loco,2024-12-20,87,63EQbNhgaih4yg5412usWG,Global,[]
-It's ok I'm ok,Tate McRae,It's ok I'm ok,2024-09-12,82,24XihnoVPWXlKJ4BgXqjVM,Global,[]
-Good News,Shaboozey,Good News,2024-11-15,79,54p6vNJwGkt4FTaM8SCsxt,Global,[]
-Listen Up,Lil Baby,WHAM (Extended Version),2025-01-10,66,4iGqt48gNNqspw8VN8EKgP,Global,[]
-KLOuFRENS,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,4MUrUT38U98olfnyzMBCzm,Global,[]
-Defying Gravity,Cynthia Erivo,Wicked: The Soundtrack,2024-11-22,84,5QMrH5nszZZR3nefIj6Mar,Global,['Ariana Grande']
-Tu Boda,Oscar Maydon,Tu Boda,2024-09-26,90,1cOboCuWYI2osTOfolMRS6,Global,['Fuerza Regida']
-BOKeTE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,79x7xtoCLpf6l32Zz6mWo4,Global,[]
-Scorsese Baby Daddy,SZA,SOS Deluxe: LANA,2024-12-20,83,2E7a96qey4AzSOdK6H21vS,Global,[]
-I Promise,Lil Baby,WHAM (Extended Version),2025-01-10,64,0HBqoVCPtB8VkFOixWrBS3,Global,[]
-Qué Pasaría...,Rauw Alejandro,Qué Pasaría...,2024-11-14,73,0OxKf18dUo2G5dFOQYCvBN,Global,['Bad Bunny']
-Due 4A Win,Lil Baby,WHAM (Extended Version),2025-01-10,67,0icIjOb3QHklvGBaR7woTP,Global,[]
-So Sorry,Lil Baby,WHAM (Extended Version),2025-01-10,64,5wwy9GjFxOFMV8IO6Xdf8h,Global,[]
-Think I'm In Love With You,Chris Stapleton,Think I’m In Love With You,2023-09-08,66,65M92JpTbAdHmTQm4jGaDa,Global,[]
-DENIAL IS A RIVER,Doechii,Alligator Bites Never Heal,2024-08-30,84,1eTaznNW4Xxtx9za2SMTXB,Global,[]
-TURiSTA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,88,7tCuCjhxzjX2XCz4JiiAsp,Global,[]
-Guy For That,Post Malone,F-1 Trillion,2024-08-15,76,6StwwqB84sJeLr7tZDTxEX,Global,['Luke Combs']
-Residuals,Chris Brown,11:11 (Deluxe),2024-04-11,69,4t4rGgiVX7woTmlnW9SHJ7,Global,[]
-No Pole,Don Toliver,Love Sick (Deluxe),2023-02-28,87,0eaVIYo2zeOaGJeqZ5TwYz,Global,[]
-I Ain't Sayin',Jordan Davis,I Ain't Sayin',2024-07-26,74,7lCs3stpWCtAn5Y2lmnPhV,Global,[]
-Am I Okay?,Megan Moroney,Am I Okay?,2024-07-12,75,36wAwEkSDpNQ4oQeRLYC3L,Global,[]
-CAFé CON RON,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,6VNXmo59yDYgcwLS17UNAW,Global,['Los Pleneros de la Cresta']
-Help Me,Real Boston Richey,Help Me,2024-05-31,68,487JCvAXVblflZyDJn3fSp,Global,[]
-Bad Dreams,Teddy Swims,Bad Dreams,2024-09-13,87,3nHuKdFJZm78CoeBnDcFKe,Global,[]
-Stiff Gang,Lil Baby,WHAM (Extended Version),2025-01-10,62,3cRi3PKcFCPL3fQcEJMKT0,Global,[]
-Dancing In The Flames,The Weeknd,Dancing In The Flames,2024-09-13,81,7z7kvUQGwlC6iOl7vMuAr9,Global,[]
-Boys Back Home,Dylan Marlowe,Boys Back Home,2023-10-27,60,1hgINxfKQlJOikzd9skvC2,Global,['Dylan Scott']
-Heart Of A Woman,Summer Walker,Heart Of A Woman,2024-10-25,73,2oVVaVY0LkzwAYYcyzon6Z,Global,[]
-peekaboo,Kendrick Lamar,GNX,2024-11-22,82,2Uts1QFB4u2YNIMiqcb4de,Global,['AzChike']
-Drive,SZA,SOS Deluxe: LANA,2024-12-20,79,2qYbtIf8dRkBkKIcZVGFDq,Global,[]
-Popular,Ariana Grande,Wicked: The Soundtrack,2024-11-22,83,3i8fIJNV0yuC4kXT3SkVBZ,Global,[]
-hey now,Kendrick Lamar,GNX,2024-11-22,83,5S8VwnB4sLi6W0lYTWYylu,Global,['Dody6']
-LO QUE LE PASÓ A HAWAii,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,85,1Hg0e997pObvZ91w1FCPFk,Global,[]
-LA MuDANZA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,3G7agPwWfcORnWCAGMDOpm,Global,[]
-Close To You,Gracie Abrams,The Secret of Us,2024-06-21,72,2bl81llf715VEEbAx03yvB,Global,[]
-Diet Pepsi,Addison Rae,Diet Pepsi,2024-08-09,85,6MzofobZt2dm0Kf1hTThFz,Global,[]
-Burning Down,Alex Warren,Burning Down,2024-09-20,69,7gxQXemQ5MBeK9PUrKRtfV,Global,[]
-Free Promo,Lil Baby,WHAM (Extended Version),2025-01-10,62,47OlqHXSnjsURFZGLdvQwI,Global,[]
-DOS DÍAS,Tito Double P,INCÓMODO,2024-08-22,87,5lKFO0PrOC9jmOlPEdjHsL,Global,['Peso Pluma']
-That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-16,69,4FF0Te5R85sLW8MNvehHKK,UK,[]
-APT.,ROSÉ,APT.,2024-10-18,96,5vNRhkKd0yEAg8suGBpjeY,UK,['Bruno Mars']
-Messy,Lola Young,Messy,2024-05-30,66,2YuUy4hBCVm4L5IRHu0iVl,UK,[]
-Sailor Song,Gigi Perez,Sailor Song,2024-07-26,93,2262bWmqomIaJXwCRHr13j,UK,[]
-The Days,Chrystal,The Days,2024-10-01,64,5hdk8xva1LqTDEgs3yLdRH,UK,[]
-The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,UK,[]
-Bad Dreams,Teddy Swims,Bad Dreams,2024-09-13,87,3nHuKdFJZm78CoeBnDcFKe,UK,[]
-Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,UK,['Bruno Mars']
-Somedays,Sonny Fodera,Somedays,2024-07-26,79,3wo3d0I5H8KjkwGvnz8WbB,UK,"['Jazzy', 'D.O.D']"
-Defying Gravity,Cynthia Erivo,Wicked: The Soundtrack,2024-11-22,84,5QMrH5nszZZR3nefIj6Mar,UK,['Ariana Grande']
-Bed Chem,Sabrina Carpenter,Short n' Sweet,2024-08-23,87,1UHS8Rf6h5Ar3CDWRd3wjF,UK,[]
-Timeless,The Weeknd,Timeless,2024-09-27,64,2Kbc5HFurzJ33w6y0PAuIM,UK,['Playboi Carti']
-Nice To Meet You,Myles Smith,A Minute...,2024-11-08,79,726SEjbF3ToEbYbn43gnxl,UK,[]
-BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,UK,[]
-Espresso,Sabrina Carpenter,Please Please Please,2024-06-06,62,1vLqigPHwiFnXsfrLMehV1,UK,[]
-WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,UK,[]
-"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,UK,[]
-Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,90,5G2f63n7IPVPPjfNIGih7Q,UK,[]
-People Watching,Sam Fender,People Watching,2024-11-15,72,3ZZyUf7WkhfN1JkQZZ00fI,UK,[]
-Dirty Cash,PAWSA,Dirty Cash (Money Talks),2024-11-15,80,2VyvDGdcVY04cNYou9MFVX,UK,['The Adventures Of Stevie V']
-Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,UK,[]
-Thick Of It,KSI,Thick Of It (feat. Trippie Redd) [All Speeds Considered],2024-10-08,60,0L47Eu4MJH1J1vIerB7MMc,UK,['Trippie Redd']
-Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,UK,[]
-Too Sweet,Hozier,Unheard,2024-03-22,78,3HMY0r2BAdpasXMY8rseR0,UK,[]
-A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,65,1SviOIgEA8sEPVgYEdCpnh,UK,[]
-Popular,Ariana Grande,Wicked: The Soundtrack,2024-11-22,83,3i8fIJNV0yuC4kXT3SkVBZ,UK,[]
-What Is This Feeling?,Ariana Grande,Wicked: The Soundtrack,2024-11-22,83,7eGuPhpdS8sBjPJNuAShUX,UK,['Cynthia Erivo']
-luther,Kendrick Lamar,GNX,2024-11-22,90,45J4avUb9Ni0bnETYaYFVJ,UK,['SZA']
-Stargazing,Myles Smith,Stargazing,2024-05-10,86,3Vr3zh0r7ALn8VLqCiRR10,UK,[]
-Stick Season,Noah Kahan,Stick Season,2022-10-14,86,0mflMxspEfB0VbI1kyLiAv,UK,[]
-HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,86,4xdBrk0nFZaP54vvZj0yx7,UK,[]
-PUSH 2 START,Tyla,TYLA +,2024-10-11,86,1Cbl3Yq8rHo7hhDQmLQagU,UK,[]
-Diet Pepsi,Addison Rae,Diet Pepsi,2024-08-09,85,6MzofobZt2dm0Kf1hTThFz,UK,[]
-Like Him,Tyler,CHROMAKOPIA,2024-10-28,90,6jbYpRPTEFl1HFKHk1IC0m,UK,"['The Creator', 'Lola Young']"
-"I Love You, I'm Sorry",Gracie Abrams,The Secret of Us,2024-06-21,89,51rfRCiUSvxXlCSCfIztBy,UK,[]
-Close To You,Gracie Abrams,The Secret of Us,2024-06-21,72,2bl81llf715VEEbAx03yvB,UK,[]
-tv off,Kendrick Lamar,GNX,2024-11-21,61,75bsrBtmM57lhi55yOfzBL,UK,['Lefty Gunplay']
-Austin,Dasha,Austin (Boots Stop Workin'),2023-11-16,60,69wVo2cAAD7O9XSpSpTBAu,UK,[]
-NIGHTS LIKE THIS,The Kid LAROI,THE FIRST TIME,2023-11-10,87,1XBYiRV30ykHw5f4wm6qEn,UK,[]
-DtMF,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,96,3sK8wGT43QFpWrvNQsrQya,USA,[]
-Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,USA,['Bruno Mars']
-luther,Kendrick Lamar,GNX,2024-11-21,87,2CGNAOSuO1MEFCbBRgUzjd,USA,['SZA']
-All,Zoe Ray,All,2025-01-17,10,6IHb9PMB9Xqw3igHksDQxt,USA,[]
-BAILE INoLVIDABLE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,94,2lTm559tuIvatlT1u0JYG2,USA,[]
-Dig a Little Deeper,Daniel Quick,Dig a Little Deeper,2024-10-25,28,5G0lqOPOOjNlB4lamtdyKa,USA,[]
-tv off,Kendrick Lamar,GNX,2024-11-22,91,0aB0v4027ukVziUGwVGYpG,USA,['Lefty Gunplay']
-Lost Time,CLYDE,Lost Time,2024-09-27,26,2R5MSYdHPD8sKc4BM0y4UZ,USA,[]
-That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,96,7ne4VBA60CxGM75vw0EYad,USA,[]
-Walk Alone,Marcus Lindeberg,Walk Alone,2024-09-20,23,0jjmpCxUw8iZz23QKF9xTb,USA,[]
-NUEVAYoL,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,93,5TFD2bmFKGhoCRbX61nXY5,USA,[]
-Revolution,23 TheMiracle,Revolution,2024-09-15,22,5AuHi02V7j43JuJ0eoiGG9,USA,[]
-Sticky,Tyler,CHROMAKOPIA,2024-10-28,89,3tFed7YsjGnIfxeLEQwx3R,USA,"['The Creator', 'GloRilla', 'Sexyy Red', 'Lil Wayne']"
-No Second Chances,Jordi Highdale,No Second Chances,2024-10-04,23,1E11W7GIkKru5E7KpjaR87,USA,[]
-Who,Jimin,MUSE,2024-07-19,90,7tI8dRuH2Yc6RuoTjxo4dU,USA,[]
-THROW DAT,Matt Fella,THROW DAT,2024-10-25,22,3jE617bXLdgBXaS6yGd02C,USA,"['The Honorable SoLo D', 'MiamiSportsMusic']"
-Sailor Song,Gigi Perez,Sailor Song,2024-07-26,93,2262bWmqomIaJXwCRHr13j,USA,[]
-So Tell Me,Yara,So Tell Me,2024-10-25,17,2pd2ag0raoLDXqmX0fOWna,USA,[]
-APT.,ROSÉ,rosie,2024-12-06,90,4wJ5Qq0jBN4ajy7ouZIV1c,USA,['Bruno Mars']
-Embrace The Pain,BA,Embrace The Pain (Chapter 1),2024-09-27,22,5JIjPc9rDfBX1DVooc2CNh,USA,['W3$t$id3 KY']
-BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,USA,[]
-I've Always Been,Sean Kennedy,I've Always Been,2024-10-04,16,2kECkgfkOIAAoIMQaufJFd,USA,[]
-Timeless,The Weeknd,Timeless,2024-09-27,92,1Es7AUAhQvapIcoh3qMKDL,USA,['Playboi Carti']
-Toxic,KayOrAlpha,Toxic,2024-07-05,24,1xzP0d7hJgZOU7E7Yjm0b8,USA,[]
-Like Him,Tyler,CHROMAKOPIA,2024-10-28,90,6jbYpRPTEFl1HFKHk1IC0m,USA,"['The Creator', 'Lola Young']"
-Energy,Coral Cross,Energy,2024-11-01,19,63Vhg45ZnvISHrywGe068r,USA,[]
-"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,USA,[]
-pieces,FABIAN,pieces,2024-05-31,18,4yFcOLEJhybtZCVT8KeyXC,USA,[]
-squabble up,Kendrick Lamar,GNX,2024-11-22,88,0nj9Bq5sHDiTxSHunhgkFb,USA,[]
-My Sunrise,Silvi Di,My Sunrise,2024-10-11,16,7LgMrJ3rKBNJDxMT24WlcW,USA,[]
-Messy,Lola Young,This Wasn't Meant For You Anyway,2024-06-21,84,35ISBknsCeZQtq66xABI9g,USA,[]
-Heaven,Ollie Harryson,Heaven,2024-06-07,19,1H1lJq9tx3pq00bpeZUT5N,USA,[]
-Loco,Neton Vega,Loco,2024-12-20,87,63EQbNhgaih4yg5412usWG,USA,[]
-Better Than Her,SINNAH,Better Than Her,2024-03-08,28,4NykJNyAnlVH4Awb15eTpa,USA,[]
-No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,USA,[]
-Casanova,Vain Villain Society,Casanova,2024-03-29,18,0y83UEjeQh27tFPJmNBKhK,USA,[]
-BMF,SZA,SOS Deluxe: LANA,2024-12-20,89,3U3hFkMr0Q90pD24EkE3Pr,USA,[]
-The Way We Move,KayOrAlpha,The Way We Move,2024-04-05,20,5gSOyNejS2lKKjMaYWQTMC,USA,[]
-No Pole,Don Toliver,Love Sick (Deluxe),2023-02-28,87,0eaVIYo2zeOaGJeqZ5TwYz,USA,[]
-SPACESHIP,Bobby Blaque,TO THE MOON,2022-07-15,1,2VgI2JnsoxdnEfibC0r8yS,USA,[]
-See You Again,Tyler,Flower Boy,2017-07-21,89,7KA4W4McWYRpgf0fWsJZWB,USA,"['The Creator', 'Kali Uchis']"
-Dirty South,KayOrAlpha,Dirty South,2024-03-01,16,5oLfKqwZCKLjiCaA54QFSp,USA,['JusJugga']
-WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,USA,[]
-For a While,Nour,For a While,2023-06-02,18,5pg9lf8fOtJgWTPOfrp6Xp,USA,[]
-I Had Some Help,Post Malone,F-1 Trillion,2024-08-15,84,5IZXB5IKAD2qlvTPJYDCFB,USA,['Morgan Wallen']
-Stay Strong,Titus Drott,Writing In The Dark,2024-11-29,19,1mntZnBihxbiPb5pSX0eJg,USA,[]
-Espresso,Sabrina Carpenter,Short n' Sweet,2024-08-23,88,2HRqTpkrJO5ggZyyK6NPWz,USA,[]
-I Miss Love,CLYDE,I Miss Love,2024-12-06,20,4cBZaf9OI7oaMYuzG9sYDl,USA,[]
-Lose Control,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,89,17phhZDn6oGtzMe56NuWvj,USA,[]
-Your Love,Linda Englund,Your Love,2025-01-10,9,4LnjQsDrTCNbng93mBV9bf,USA,[]
-APT.,ROSÉ,APT.,2024-10-18,96,5vNRhkKd0yEAg8suGBpjeY,Australia,['Bruno Mars']
-Are You Even Real,Teddy Swims,Are You Even Real (feat. Givēon),2025-01-10,77,4ZO4HvFADvujrrEidSatEC,Australia,['Giveon']
-Houdini,Dua Lipa,Houdini,2023-11-09,47,4OMJGnvZfDvsePyCwRGO7X,Australia,[]
-No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,Australia,[]
-Apple,Charli xcx,BRAT,2024-06-07,81,19RybK6XDbAVpcdxSbZL1o,Australia,[]
-Indigo,Sam Barber,Restless Mind,2024-11-01,83,1KZG1H1OCugGqIRmk1wF9m,Australia,['Avery Anna']
-Burning Down,Alex Warren,Burning Down (with Joe Jonas),2024-12-06,74,3diSxgK7bRIZzqu5IqFgd1,Australia,['Joe Jonas']
-Somedays,Sonny Fodera,Somedays,2024-07-26,79,3wo3d0I5H8KjkwGvnz8WbB,Australia,"['Jazzy', 'D.O.D']"
-True,CYRIL,True,2024-08-09,46,1amJavIEToI7pdHkPN6A1S,Australia,['Kita Alexander']
-Beautiful Things,Benson Boone,Fireworks & Rollerblades,2024-04-05,86,3xkHsmpQCBMytMJNiDf3Ii,Australia,[]
-Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Australia,[]
-Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Australia,['Bruno Mars']
-toxic till the end,ROSÉ,rosie,2024-12-06,88,1z5ebC9238uGoBgzYyvGpQ,Australia,[]
-Girl Next Door,Oliver Cronin,Girl Next Door (with Charley),2024-08-29,37,4aRFUjAr2SurdXgDLLQ73u,Australia,['Charley']
-Illusion,Dua Lipa,Illusion,2024-04-11,42,59xD5osEFsaNt5PXfIKUnX,Australia,[]
-Guess featuring billie eilish,Charli xcx,Guess featuring billie eilish,2024-08-01,81,3WOhcATHxK2SLNeP5W3v1v,Australia,['Billie Eilish']
-feelslikeimfallinginlove - Single Version,Coldplay,feelslikeimfallinginlove,2024-06-21,74,1YsU8rW2u8z4F0pwOBQ4Ea,Australia,[]
-Pretty Slowly,Benson Boone,Pretty Slowly,2024-08-15,74,1QxxBUAx42J8pIFYJJR880,Australia,[]
-360,Charli xcx,360,2024-05-10,57,7JxexWxny7yJ3slTLmWz2U,Australia,[]
-Forever Young,David Guetta,Forever Young,2024-10-18,80,3bg2qahpZmsg5wV2EMPXIk,Australia,"['Alphaville', 'Ava Max']"
-Kisses,BL3SS,Kisses (feat. bbyclose),2024-03-22,72,1bJRd2ey6ER7neSxZwYdAG,Australia,"['CamrinWatsin', 'bbyclose']"
-KEHLANI,Jordan Adetunji,KEHLANI,2024-05-19,22,0izPpjfwsu2DuzWGqsABkT,Australia,[]
-Talk talk featuring troye sivan,Charli xcx,Talk talk featuring troye sivan,2024-09-12,64,2LUD3874dlzeRa34Hi7ohW,Australia,['Troye Sivan']
-I Don't Wanna Wait,David Guetta,I Don't Wanna Wait,2024-04-05,84,331l3xABO0HMr1Kkyh2LZq,Australia,['OneRepublic']
-Stumblin' In,CYRIL,Stumblin' In,2023-11-10,83,0h3Xy4V4apMraB5NuM8U7Z,Australia,[]
-i like the way you kiss me,Artemas,i like the way you kiss me,2024-03-19,83,2GxrNKugF82CnoRFbQfzPf,Australia,[]
-ALL MY LOVE,Coldplay,ALL MY LOVE,2024-11-22,52,3PpIWOUaPwDxu0ysEaFfAr,Australia,[]
-Burning Down,Alex Warren,Burning Down,2024-09-20,69,7gxQXemQ5MBeK9PUrKRtfV,Australia,[]
-The Emptiness Machine,Linkin Park,The Emptiness Machine,2024-09-05,83,2PnlsTsOTLE5jnBnNe2K0A,Australia,[]
-Austin,Dasha,What Happens Now?,2024-02-16,3,6b81dy3WjbozXK6b7C1gu5,Australia,[]
-BLAME,James Johnston,BLAME,2024-09-12,51,6krhdjLqzCefSnaGgUidUq,Australia,[]
-The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,Australia,[]
-Espresso,Sabrina Carpenter,Espresso,2024-04-12,88,2qSkIjg1o9h3YT9RAgYN75,Australia,[]
-Hot Honey,Tiësto,Hot Honey,2024-07-25,60,7fZtgiJSNJ2QarKKKSssBp,Australia,['Alana Springsteen']
-Carry You Home,Alex Warren,Carry You Home,2024-05-31,74,4uzKAj0mIyYmyhsRRyPXaQ,Australia,[]
-Balance,Oliver Cronin,Halfway to Paradise,2024-10-03,35,21ZErdd3e2W8EunBqaQ9PY,Australia,[]
-Fortnight,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,83,2OzhQlSqBEmt7hmkYxfT6m,Australia,['Post Malone']
-28,Zach Bryan,The Great American Bar Scene,2024-07-04,77,5iJKGpnFfvbjZJeAtwXfCj,Australia,[]
-Scared To Start,Michael Marcagi,Scared To Start,2024-01-12,82,3Pbp7cUCx4d3OAkZSCoNvn,Australia,[]
-places to be,Fred again..,places to be,2024-05-31,68,561pBFcFL2Pwb9HPO9tU8J,Australia,"['Anderson .Paak', 'CHIKA']"
-These Walls,Dua Lipa,Radical Optimism,2024-05-03,70,7b6sWLSnbZhSIeqNGrJ4py,Australia,[]
-we can't be friends,Ariana Grande,eternal sunshine,2024-03-08,87,51ZQ1vr10ffzbwIjDCwqm4,Australia,[]
-Music is Better,RÜFÜS DU SOL,Music is Better,2024-06-21,58,2OnSedqUAqhCLZhCR4gjMw,Australia,[]
-MILLION DOLLAR BABY,Tommy Richman,MILLION DOLLAR BABY,2024-04-26,29,7fzHQizxTqy8wTXwlrgPQQ,Australia,[]
-Slow It Down,Benson Boone,Fireworks & Rollerblades,2024-04-05,84,51eSHglvG1RJXtL3qI5trr,Australia,[]
-Is It Ever Gonna Make Sense,Budjerah,Is It Ever Gonna Make Sense,2024-07-17,41,7FbLFGKk2OBewYOgCa3cbT,Australia,[]
-I Had Some Help,Post Malone,I Had Some Help,2024-05-10,82,7221xIgOnuakPdLqT0F3nP,Australia,['Morgan Wallen']
-Fall At Your Feet,CYRIL,Fall At Your Feet (with Dean Lewis),2024-07-12,66,0M0a2E5H8pUmqDHs0A4931,Australia,['Dean Lewis']
-Strangers,Kenya Grace,Strangers,2023-09-01,76,5mjYQaktjmjcMKcUIcqz4s,Australia,[]
-A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,85,2FQrifJ1N335Ljm3TjTVVf,Australia,[]
-Pink Skies,Zach Bryan,Pink Skies,2024-05-24,84,4ZJ4vzLQekI0WntDbanNC7,Australia,[]
-After Hours,Kehlani,After Hours,2024-04-04,68,2x03XLsTZ0o86h0cfHrkKF,Australia,[]
-I Can Do It With a Broken Heart,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,81,4q5YezDOIPcoLr8R81x9qy,Australia,[]
-Too Sweet,Hozier,Unheard,2024-03-22,76,4IadxL6BUymXlh8RCJJu7T,Australia,[]
-End of Beginning,Djo,DECIDE,2022-09-16,88,3qhlB30KknSejmIvZZLjOD,Australia,[]
-Dance Alone,Sia,Dance Alone,2024-02-07,56,1XZy2eprbATl4AnL9Fpsw1,Australia,['Kylie Minogue']
-Talk talk,Charli xcx,BRAT,2024-06-07,66,62fqMvguJbsSs9HKhhRfuS,Australia,[]
-"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,Australia,[]
-Mamushi,Megan Thee Stallion,MEGAN,2024-06-28,77,5b3XJ1pjrHO5JtY2PcTjnI,Australia,['千葉雄喜']
-Lovin On Me,Jack Harlow,Lovin On Me,2023-11-10,81,4xhsWYTOGcal8zt0J161CU,Australia,[]
-I Remember Everything,Zach Bryan,Zach Bryan,2023-08-25,84,4KULAymBBJcPRpk1yO4dOG,Australia,['Kacey Musgraves']
-Training Season,Dua Lipa,Training Season,2024-02-15,75,6Qb7YsAqH4wWFUMbGsCpap,Australia,[]
-if u think i'm pretty,Artemas,pretty,2024-02-09,78,1ACA277B6f46DYCgZW8di3,Australia,[]
-Stubborn,Illy,Stubborn,2024-07-18,23,6mV7p9MK2gbFsholZhjIIk,Australia,[]
-obsessed,Olivia Rodrigo,GUTS (spilled),2024-03-22,75,6tNgRQ0K2NYZ0Rb9l9DzL8,Australia,[]
-Before You Leave Me,Alex Warren,Before You Leave Me,2024-02-16,68,7qoxdajngC0j9VXrcnephA,Australia,[]
-Hammer to the Heart,Teddy Swims,I've Tried Everything But Therapy (Part 1.5),2024-04-26,74,0IdwfnHFfyb7zc7GFs75QQ,Australia,[]
-So Cold,Balu Brigada,So Cold,2024-06-07,65,297PYWIVLP38C1a92ND8Kv,Australia,[]
-Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,84,5N3hjp1WNayUPZrA8kJmJP,Australia,[]
-Ain't No Love In Oklahoma,Luke Combs,Ain't No Love In Oklahoma (From Twisters: The Album),2024-05-16,81,6GG4yyk3UATdBfTHVgI8PB,Australia,[]
-Cry,Benson Boone,Fireworks & Rollerblades,2024-04-05,74,3h76tbaYIamSeJL81X7ZwI,Australia,[]
-Spite,Omar Apollo,Spite,2024-04-05,47,0XHFylA18yuwGVCfJfq4dw,Australia,[]
-Burning House,Oliver Cronin,Burning House,2024-04-18,40,7HGFfxOpk3lZbOQywYfMTJ,Australia,[]
-if u think i'm pretty,Artemas,if u think i'm pretty,2023-10-24,68,34Yl756FwYuZldE9xnshj5,Australia,[]
-Zodiac,Kita Alexander,Young In Love,2024-03-22,32,5IsJtIM3On4BNkSujt4A2c,Australia,[]
-Stick Season,Noah Kahan,Stick Season,2022-10-14,86,0mflMxspEfB0VbI1kyLiAv,Australia,[]
-Nice to meet you,PinkPantheress,Heaven knows,2023-11-10,58,1jLVSavLHTeEixX6CIxqQR,Australia,['Central Cee']
-Calling After Me,Wallows,Calling After Me,2024-03-21,59,2WGcpz55A2vrvh6foEGCNL,Australia,[]
-"Girl, so confusing featuring lorde",Charli xcx,"Girl, so confusing featuring lorde",2024-06-21,66,2YFhqZvhTpyK13gKXMKV7R,Australia,['Lorde']
-Tear It All Apart,Michael Marcagi,Tear It All Apart,2024-06-21,58,2paY84rEBVDm46rdPaQY88,Australia,[]
-BROTHER STONE,Don Toliver,HARDSTONE PSYCHO,2024-06-14,71,093MlZS93ZKlHpGkmb3k3W,Australia,['Kodak Black']
-Contigo,Marta Santos,Contigo,2024-11-22,64,5Txf0ApheFvyRr1s4DxMb5,Spain,[]
-¿Y si lo hacemos?,Dani Fernández,La Jauría,2024-10-25,60,1VamVCJejLZh212lNhygVw,Spain,['Valeria Castro']
-"Hola, qué tal?",Beret,"Hola, qué tal?",2024-10-04,68,5Z8nG5FVaBbASxtlVBu44v,Spain,[]
-Me has invitado a bailar,Dani Fernández,Me has invitado a bailar,2024-08-23,67,0JJw1ghkoEu3Yat1uOSjAE,Spain,[]
-APT.,ROSÉ,APT.,2024-10-18,96,5vNRhkKd0yEAg8suGBpjeY,Spain,['Bruno Mars']
-haz lo que quieras conmigo,Walls,haz lo que quieras conmigo,2024-09-20,61,635oxQ6Vn3ynUUg6EfQKw9,Spain,[]
-La Vida Entera,Marta Santos,La Vida Entera,2024-04-12,61,1zgb3QCX8jo4IGRg56tjvj,Spain,[]
-Are You Even Real,Teddy Swims,Are You Even Real (feat. Givēon),2025-01-10,77,4ZO4HvFADvujrrEidSatEC,Spain,['Giveon']
-Nuestra Canción,Álvaro De Luna,Nuestra Canción,2024-07-26,59,2MJlcHWfkA651gpiCRJ2TE,Spain,[]
-Cupido,Beret,Cupido,2024-06-20,58,6h3U07z62eGIuyOprHwzgZ,Spain,[]
-Bad Dreams,Teddy Swims,Bad Dreams,2024-09-13,87,3nHuKdFJZm78CoeBnDcFKe,Spain,[]
-"Tanto, tanto, tanto",Paul Alone,"Tanto, tanto, tanto",2024-12-13,49,0Uau9rHJZJeKd5w8M9F35v,Spain,[]
-TAN FRÍO,Recycled J,TAN FRÍO,2024-09-18,46,66QkHNV2z5d6C0wmN8axe0,Spain,[]
-Todo cambia,Dani Fernández,Todo cambia,2024-01-18,56,0uOxKY91hTmnJOxGPGpJtd,Spain,[]
-The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,Spain,[]
-SE TE NOTA,Myke Towers,LA PANTERA NEGRA,2024-08-22,64,1iIrqtbY2aogEHhQkmrV7w,Spain,['Peso Pluma']
-ENSÉÑAME,Nil Moliner,ENSÉÑAME (feat. Rozalén),2024-08-30,44,0sfPsrIe2DKbOVnOUBP0eD,Spain,['Rozalén']
-A 200,Rasel,A 200,2024-05-03,50,5SZSKqau8KDBSMraCFrSlb,Spain,"['Henry Mendez', 'Big Lois']"
-Bonito,Demarco Flamenco,Bonito,2024-07-05,61,0VvKhRZQRdNnolSSkHVgPh,Spain,[]
-Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Spain,[]
-Llorando en el Lambo,Lérica,Llorando en el Lambo,2024-02-23,56,7ms9TmXD1qVWhuGCQFTT16,Spain,"['Mar Lucas', 'Daviles de Novelda']"
-IBIZA,Soge Culebra,IBIZA,2024-06-07,49,5AU2gpAgq83vIELugCWx9G,Spain,"['Lucho RK', 'Mr. Naisgai']"
-Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,Spain,[]
-ADIVINO,Myke Towers,ADIVINO,2024-04-25,74,0LZy30mVmxqUpdQmaXKXBd,Spain,['Bad Bunny']
-1 FANTASÍA,Soge Culebra,1 FANTASÍA,2024-05-10,35,0MtK2ICtOXzYJaRfiDwcee,Spain,['The Rudeboyz']
-Lucas y Marta,Marlon,Lucas y Marta,2024-06-07,38,0GnBtvSUflXvdTTtTYRFA3,Spain,[]
-feelslikeimfallinginlove - Single Version,Coldplay,feelslikeimfallinginlove,2024-06-21,74,1YsU8rW2u8z4F0pwOBQ4Ea,Spain,[]
-La última granada,Beret,La última granada,2024-03-15,56,4wCFO12O6g2yY2xiC3EBA8,Spain,[]
-Olvidé Olvidarte,Marlon,Olvidé Olvidarte,2023-06-08,48,6nys7RehgP4R0KzSVGm3CI,Spain,['Álvaro De Luna']
-Hoy Festejo,Álvaro De Luna,Hoy Festejo,2023-09-26,42,5VzeBUPnyf9rWSPkEFeL6X,Spain,['TIMØ']
-NO PIENSO LLAMAR,Soge Culebra,NO PIENSO LLAMAR,2023-10-06,53,3xE3TyeIxL24IstPdy5IBv,Spain,"['Quevedo', 'GARABATTO']"
-VUELA ALTO,Nil Moliner,VUELA ALTO,2023-09-08,0,6Up49hQmFHWPMpxN8FIu9o,Spain,[]
-Todo Contigo,Álvaro De Luna,Todo Contigo,2023-03-17,56,4rQu72zFJz3qne1bnEkVSt,Spain,[]
-AMALFI,Enol,AMALFI,2024-07-04,36,5dZWpk7YHEY9EqhXJRLlsf,Spain,[]
-Acantilado,Veintiuno,Acantilado,2024-09-13,43,3fGXwYc0Pq4xXTYfkUJMoc,Spain,['Enol']
-SANTORINI REMIX,Enol,SANTORINI REMIX,2023-04-21,50,4Q5bNe8cEp5KhDsQOIV2QB,Spain,"['Marmi', 'Beret']"
-Libertad,Nil Moliner,Un Secreto Al Que Gritar,2021-10-22,56,1kG7gfH4HDUlDht0VZYkiP,Spain,[]
-Amapolas,Leo Rizzi,Amapolas,2021-07-09,68,0z5yLgBmAtaylDYrgwzlpH,Spain,[]
-Juramento eterno de sal,Álvaro De Luna,Juramento eterno de sal,2020-11-05,54,23E53f3C9SJ9MqBh1f6hEw,Spain,[]
-Tiroteo - Remix,Marc Seguí,Tiroteo (Remix),2021-04-01,78,4OwhwvKESFtuu06dTgct7i,Spain,"['Rauw Alejandro', 'Pol Granch']"
+track_name,artist_name,album_name,release_date,popularity,track_id,region,features,languages
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Global,['Bruno Mars'],Unknown
+A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,85,2FQrifJ1N335Ljm3TjTVVf,Global,[],Unknown
+BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,Global,[],Unknown
+Smile,Morgan Wallen,Smile,2024-12-31,83,3MJ6lFNV12FSHAOzTzkwxz,Global,[],Unknown
+APT.,ROSÉ,APT.,2024-10-18,95,5vNRhkKd0yEAg8suGBpjeY,Global,['Bruno Mars'],Unknown
+Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Global,[],Unknown
+luther,Kendrick Lamar,GNX,2024-11-22,89,45J4avUb9Ni0bnETYaYFVJ,Global,['SZA'],Unknown
+That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,96,7ne4VBA60CxGM75vw0EYad,Global,[],Unknown
+I Had Some Help,Post Malone,I Had Some Help,2024-05-10,82,7221xIgOnuakPdLqT0F3nP,Global,['Morgan Wallen'],Unknown
+Espresso,Sabrina Carpenter,Espresso,2024-04-12,88,2qSkIjg1o9h3YT9RAgYN75,Global,[],Unknown
+tv off,Kendrick Lamar,GNX,2024-11-22,91,0aB0v4027ukVziUGwVGYpG,Global,['Lefty Gunplay'],Unknown
+Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,90,5G2f63n7IPVPPjfNIGih7Q,Global,[],Unknown
+Love Somebody,Morgan Wallen,Love Somebody,2024-10-18,85,7hR22TOX3RorxJPcsz5Wbo,Global,[],Unknown
+Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,Global,[],Unknown
+Timeless,The Weeknd,Timeless,2024-09-27,92,1Es7AUAhQvapIcoh3qMKDL,Global,['Playboi Carti'],Unknown
+"Dum, Dumb, and Dumber",Lil Baby,WHAM (Extended Version),2025-01-10,74,4IKvw1OdeTJIN3g4zWE38f,Global,"['Young Thug', 'Future']",Unknown
+Too Sweet,Hozier,Unheard,2024-03-22,76,4IadxL6BUymXlh8RCJJu7T,Global,[],Unknown
+Sticky,Tyler,CHROMAKOPIA,2024-10-28,89,3tFed7YsjGnIfxeLEQwx3R,Global,"['The Creator', 'GloRilla', 'Sexyy Red', 'Lil Wayne']",Unknown
+squabble up,Kendrick Lamar,GNX,2024-11-22,88,0nj9Bq5sHDiTxSHunhgkFb,Global,[],Unknown
+Stargazing,Myles Smith,Stargazing,2024-05-10,86,3Vr3zh0r7ALn8VLqCiRR10,Global,[],Unknown
+"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,Global,[],Unknown
+30 For 30,SZA,SOS Deluxe: LANA,2024-12-20,85,3aSWXU6owkZeVhh94XxEWO,Global,['Kendrick Lamar'],Unknown
+Not Like Us,Kendrick Lamar,Not Like Us,2024-05-04,87,6AI3ezQ4o3HUoP6Dhudph3,Global,[],Unknown
+Messy,Lola Young,Messy,2024-05-30,89,3SKH53SPQbEnZR4cJPVaz2,Global,[],Unknown
+High Road,Koe Wetzel,High Road (feat. Jessie Murph),2024-06-07,72,73KAidtqbDftZjy8AD0H04,Global,['Jessie Murph'],Unknown
+WHATCHU KNO ABOUT ME,GloRilla,WHATCHU KNO ABOUT ME (with Sexyy Red),2024-10-10,75,4VI2Y5xg4gYynQqNQNQbTN,Global,['Sexyy Red'],Unknown
+NUEVAYoL,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,93,5TFD2bmFKGhoCRbX61nXY5,Global,[],Unknown
+BAILE INoLVIDABLE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,94,2lTm559tuIvatlT1u0JYG2,Global,[],Unknown
+Tweaker,G3 GELO,Tweaker,2025-01-03,80,5nk6BxN9bM5rLNkA3pMOzn,Global,[],Unknown
+Sailor Song,Gigi Perez,Sailor Song,2024-07-26,49,0UYnhUfnUj5adChuAXvLUB,Global,[],Unknown
+Wind Up Missin' You,Tucker Wetmore,Wind Up Missin' You,2024-03-29,20,5JRYVSZ6K2jY0kznYBmoqr,Global,[],Unknown
+Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,84,5N3hjp1WNayUPZrA8kJmJP,Global,[],Unknown
+I Am Not Okay,Jelly Roll,I Am Not Okay,2024-06-12,43,76ODTQOl0JZQbhfxs6nRV9,Global,[],Unknown
+BMF,SZA,SOS Deluxe: LANA,2024-12-20,89,3U3hFkMr0Q90pD24EkE3Pr,Global,[],Unknown
+Bed Chem,Sabrina Carpenter,Short n' Sweet,2024-08-23,87,1UHS8Rf6h5Ar3CDWRd3wjF,Global,[],Unknown
+VOY A LLeVARTE PA PR,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,92,59D4DOkspUbWyMmbAPQkxZ,Global,[],Unknown
+EL CLúB,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,0iKo4pNNjHHdKUcFARlfCa,Global,[],Unknown
+DtMF,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,96,3sK8wGT43QFpWrvNQsrQya,Global,[],Unknown
+Who,Jimin,MUSE,2024-07-19,90,7tI8dRuH2Yc6RuoTjxo4dU,Global,[],Unknown
+MILLION DOLLAR BABY,Tommy Richman,MILLION DOLLAR BABY,2024-04-26,87,5AJ9hqTS2wcFQCELCFRO7A,Global,[],Unknown
+WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,Global,[],Unknown
+Lies Lies Lies,Morgan Wallen,Lies Lies Lies,2024-07-05,80,7Fzl7QaTu47WyP9R5S5mh5,Global,[],Unknown
+VeLDÁ,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,91,7d6yK8v8J484SWH5prIQiE,Global,"['Omar Courtz', 'Dei V']",Unknown
+By Myself,Lil Baby,WHAM (Extended Version),2025-01-10,66,4pnwBTwGbXdZYgPhYJPRsr,Global,"['Rylo Rodriguez', 'Rod Wave']",Unknown
+PERFuMITO NUEVO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,1Q9Efnm5csdCMFynISxL2x,Global,['RaiNao'],Unknown
+Like Him,Tyler,CHROMAKOPIA,2024-10-28,90,6jbYpRPTEFl1HFKHk1IC0m,Global,"['The Creator', 'Lola Young']",Unknown
+Pink Pony Club,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,85,1k2pQc5i348DCHwbn5KTdc,Global,[],Unknown
+No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,Global,[],Unknown
+Liar,Jelly Roll,Beautifully Broken,2024-10-10,75,0llPOBVoJYDAtdmVlNE41A,Global,[],Unknown
+Outfit,Lil Baby,WHAM (Extended Version),2025-01-10,70,6B2FtBtIds4rqeLPTW0D76,Global,['21 Savage'],Unknown
+Stuff,Lil Baby,WHAM (Extended Version),2025-01-10,77,6JvIjI8H3yxpigROd3Cv9N,Global,['Travis Scott'],Unknown
+WELTiTA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,91,5WEF0icHWmAZBBMglBd599,Global,['Chuwi'],Unknown
+Redbone,Lil Baby,WHAM (Extended Version),2025-01-10,64,7nP8jrKvubPXbVHE52OPdo,Global,['GloRilla'],Unknown
+EoO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,6J5kc12BW5HuP3d7C3vvx8,Global,[],Unknown
+I Never Lie,Zach Top,Cold Beer & Country Music,2024-04-05,79,3t6gUcGYLrUuqwpXjOFWQc,Global,[],Unknown
+I'm Gonna Love You,Cody Johnson,How Do You Sleep At Night?,2024-10-11,40,3C94TlV5KIavC4EjzK2AHf,Global,['Carrie Underwood'],Unknown
+F U 2x,Lil Baby,WHAM (Extended Version),2025-01-10,69,2ubNuGSCWRRxUfojPRebiA,Global,[],Unknown
+4×4×U,Lainey Wilson,4×4×U,2024-07-04,59,0ZHdP6TzcInPSdQwQ1fkBZ,Global,[],Unknown
+KETU TeCRÉ,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,88,4c2Pc0NrfkesPR0jff6q3F,Global,[],Unknown
+PIToRRO DE COCO,Bad Bunny,PIToRRO DE COCO,2024-12-26,77,1OSOHTBFkIkhUtxhOyUksc,Global,[],Unknown
+Indigo,Sam Barber,Restless Mind,2024-11-01,83,1KZG1H1OCugGqIRmk1wF9m,Global,['Avery Anna'],Unknown
+Loco,Neton Vega,Loco,2024-12-20,87,63EQbNhgaih4yg5412usWG,Global,[],Unknown
+It's ok I'm ok,Tate McRae,It's ok I'm ok,2024-09-12,82,24XihnoVPWXlKJ4BgXqjVM,Global,[],Unknown
+Good News,Shaboozey,Good News,2024-11-15,79,54p6vNJwGkt4FTaM8SCsxt,Global,[],Unknown
+Listen Up,Lil Baby,WHAM (Extended Version),2025-01-10,66,4iGqt48gNNqspw8VN8EKgP,Global,[],Unknown
+KLOuFRENS,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,4MUrUT38U98olfnyzMBCzm,Global,[],Unknown
+Defying Gravity,Cynthia Erivo,Wicked: The Soundtrack,2024-11-22,84,5QMrH5nszZZR3nefIj6Mar,Global,['Ariana Grande'],Unknown
+Tu Boda,Oscar Maydon,Tu Boda,2024-09-26,90,1cOboCuWYI2osTOfolMRS6,Global,['Fuerza Regida'],Unknown
+BOKeTE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,79x7xtoCLpf6l32Zz6mWo4,Global,[],Unknown
+Scorsese Baby Daddy,SZA,SOS Deluxe: LANA,2024-12-20,83,2E7a96qey4AzSOdK6H21vS,Global,[],Unknown
+I Promise,Lil Baby,WHAM (Extended Version),2025-01-10,64,0HBqoVCPtB8VkFOixWrBS3,Global,[],Unknown
+Qué Pasaría...,Rauw Alejandro,Qué Pasaría...,2024-11-14,73,0OxKf18dUo2G5dFOQYCvBN,Global,['Bad Bunny'],Unknown
+Due 4A Win,Lil Baby,WHAM (Extended Version),2025-01-10,67,0icIjOb3QHklvGBaR7woTP,Global,[],Unknown
+So Sorry,Lil Baby,WHAM (Extended Version),2025-01-10,65,5wwy9GjFxOFMV8IO6Xdf8h,Global,[],Unknown
+Think I'm In Love With You,Chris Stapleton,Think I’m In Love With You,2023-09-08,66,65M92JpTbAdHmTQm4jGaDa,Global,[],Unknown
+DENIAL IS A RIVER,Doechii,Alligator Bites Never Heal,2024-08-30,85,1eTaznNW4Xxtx9za2SMTXB,Global,[],Unknown
+TURiSTA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,88,7tCuCjhxzjX2XCz4JiiAsp,Global,[],Unknown
+Guy For That,Post Malone,F-1 Trillion,2024-08-15,76,6StwwqB84sJeLr7tZDTxEX,Global,['Luke Combs'],Unknown
+Residuals,Chris Brown,11:11 (Deluxe),2024-04-11,69,4t4rGgiVX7woTmlnW9SHJ7,Global,[],Unknown
+No Pole,Don Toliver,Love Sick (Deluxe),2023-02-28,87,0eaVIYo2zeOaGJeqZ5TwYz,Global,[],Unknown
+I Ain't Sayin',Jordan Davis,I Ain't Sayin',2024-07-26,74,7lCs3stpWCtAn5Y2lmnPhV,Global,[],Unknown
+Am I Okay?,Megan Moroney,Am I Okay?,2024-07-12,75,36wAwEkSDpNQ4oQeRLYC3L,Global,[],Unknown
+CAFé CON RON,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,6VNXmo59yDYgcwLS17UNAW,Global,['Los Pleneros de la Cresta'],Unknown
+Help Me,Real Boston Richey,Help Me,2024-05-31,68,487JCvAXVblflZyDJn3fSp,Global,[],Unknown
+Bad Dreams,Teddy Swims,Bad Dreams,2024-09-13,87,3nHuKdFJZm78CoeBnDcFKe,Global,[],Unknown
+Stiff Gang,Lil Baby,WHAM (Extended Version),2025-01-10,62,3cRi3PKcFCPL3fQcEJMKT0,Global,[],Unknown
+Dancing In The Flames,The Weeknd,Dancing In The Flames,2024-09-13,81,7z7kvUQGwlC6iOl7vMuAr9,Global,[],Unknown
+Boys Back Home,Dylan Marlowe,Boys Back Home,2023-10-27,60,1hgINxfKQlJOikzd9skvC2,Global,['Dylan Scott'],Unknown
+Heart Of A Woman,Summer Walker,Heart Of A Woman,2024-10-25,73,2oVVaVY0LkzwAYYcyzon6Z,Global,[],Unknown
+peekaboo,Kendrick Lamar,GNX,2024-11-22,82,2Uts1QFB4u2YNIMiqcb4de,Global,['AzChike'],Unknown
+Drive,SZA,SOS Deluxe: LANA,2024-12-20,79,2qYbtIf8dRkBkKIcZVGFDq,Global,[],Unknown
+Popular,Ariana Grande,Wicked: The Soundtrack,2024-11-22,83,3i8fIJNV0yuC4kXT3SkVBZ,Global,[],Unknown
+hey now,Kendrick Lamar,GNX,2024-11-22,83,5S8VwnB4sLi6W0lYTWYylu,Global,['Dody6'],Unknown
+LO QUE LE PASÓ A HAWAii,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,85,1Hg0e997pObvZ91w1FCPFk,Global,[],Unknown
+LA MuDANZA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,87,3G7agPwWfcORnWCAGMDOpm,Global,[],Unknown
+Close To You,Gracie Abrams,The Secret of Us,2024-06-21,72,2bl81llf715VEEbAx03yvB,Global,[],Unknown
+Diet Pepsi,Addison Rae,Diet Pepsi,2024-08-09,85,6MzofobZt2dm0Kf1hTThFz,Global,[],Unknown
+Burning Down,Alex Warren,Burning Down,2024-09-20,69,7gxQXemQ5MBeK9PUrKRtfV,Global,[],Unknown
+Free Promo,Lil Baby,WHAM (Extended Version),2025-01-10,62,47OlqHXSnjsURFZGLdvQwI,Global,[],Unknown
+DOS DÍAS,Tito Double P,INCÓMODO,2024-08-22,87,5lKFO0PrOC9jmOlPEdjHsL,Global,['Peso Pluma'],Unknown
+Taste,Sabrina Carpenter,Short n' Sweet,2024-08-23,90,5G2f63n7IPVPPjfNIGih7Q,UK,[],English
+Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,60,0lBwoEOqZNwm07Pd8Hwj3L,UK,[],English
+Espresso,Sabrina Carpenter,Espresso,2024-04-11,64,2oADPwknKEfMtwpMnr7xfg,UK,[],English
+BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,UK,[],English
+BACKBONE,Chase & Status,BACKBONE,2024-08-08,49,2N13Lr0dpiirWaJVLcNl4i,UK,['Stormzy'],English
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,UK,['Bruno Mars'],English
+Live Forever - Remastered,Oasis,Definitely Maybe (Deluxe Edition Remastered),1994,66,6TlQ5fbojNRuG0hPQMbxeW,UK,[],English
+Don't Look Back In Anger - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),1995,72,12dU3vAh6AFoJkisorfoUl,UK,[],English
+Kisses,BL3SS,Kisses (feat. bbyclose),2024-03-22,71,1bJRd2ey6ER7neSxZwYdAG,UK,"['CamrinWatsin', 'bbyclose']",English
+Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),1995,77,7ygpwy2qP3NbrxVkHvUhXY,UK,[],English
+Guess featuring billie eilish,Charli xcx,Guess featuring billie eilish,2024-08-01,81,3WOhcATHxK2SLNeP5W3v1v,UK,['Billie Eilish'],English
+HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,86,4xdBrk0nFZaP54vvZj0yx7,UK,[],English
+Somedays,Sonny Fodera,Somedays,2024-07-26,79,3wo3d0I5H8KjkwGvnz8WbB,UK,"['Jazzy', 'D.O.D']",English
+KEHLANI,Jordan Adetunji,KEHLANI,2024-05-19,22,0izPpjfwsu2DuzWGqsABkT,UK,[],English
+Apple,Charli xcx,BRAT,2024-06-07,81,19RybK6XDbAVpcdxSbZL1o,UK,[],English
+Mask,Malachi's Ministry,Mask,2024-04-26,21,1i4Jvtx5T14dvcVSNvkk5b,UK,[],English
+Move,Adam Port,Move,2024-06-07,84,1BJJbSX6muJVF2AK7uH1x4,UK,"['Stryv', 'Keinemusik', 'Orso', 'Malachiii']",English
+Bye Bye Bye,*NSYNC,No Strings Attached,2000-03-21,72,4r8lRYnoOGdEi6YyI5OC1o,UK,[],English
+Come Fly With Me,Kevin Fitzgerald,Introducing Kevin Fitzgerald,2021-09-23,11,3uZbLbNsf2byR9kp3rYLi1,UK,[],English
+Angel Of My Dreams,JADE,Angel Of My Dreams,2024-07-19,67,46cW6zufU9Woo11TLs2i6X,UK,[],English
+The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,UK,[],English
+Can’t Escape,Elisabeth Grey,Can’t Escape,2024-09-07,21,21ISwOvZzzaG0wYNpCvenK,UK,[],English
+Sailor Song,Gigi Perez,Sailor Song,2024-07-26,49,0UYnhUfnUj5adChuAXvLUB,UK,[],English
+"I Love You, I'm Sorry",Gracie Abrams,The Secret of Us,2024-06-21,89,51rfRCiUSvxXlCSCfIztBy,UK,[],English
+On U,MENA,On U,2021-10-22,10,11wz2EFG43cL28Gupp2ORZ,UK,[],English
+Stargazing,Myles Smith,Stargazing,2024-05-10,86,3Vr3zh0r7ALn8VLqCiRR10,UK,[],English
+Big Dawgs,Hanumankind,Big Dawgs,2024-07-09,82,0OA00aPt3BV10qeMIs3meW,UK,['Kalmi'],English
+How The Great Have Fallen,Kode PinK,How The Great Have Fallen,2024-08-02,36,7M92CIeYeVmMNSV5O6XG8e,UK,['bnji'],English
+WE PRAY - Single Version,Coldplay,WE PRAY,2024-08-23,73,2sKHevALE8DKDkwEo04Pbh,UK,"['Little Simz', 'Burna Boy', 'Elyanna', 'TINI']",English
+I Can Do It With a Broken Heart,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,53,29ZAW0BAp6O4C6fUncCjBk,UK,[],English
+Shallow End,Domina,Shallow End,2024-11-08,19,3VtKS1BFxoMaiKGxJyt8v2,UK,[],English
+feelslikeimfallinginlove - Single Version,Coldplay,feelslikeimfallinginlove,2024-06-21,74,1YsU8rW2u8z4F0pwOBQ4Ea,UK,[],English
+Like a Prayer,Madonna,Celebration (double disc version),2009-09-18,74,1z3ugFmUKoCzGsI6jdY4Ci,UK,[],English
+Reach You - Zack Martino & Matt Steffanina Remix,Mesa & Boss,Reach You (Zack Martino & Matt Steffanina Remix),2024-12-20,42,6oJbGUvqzRnHg8jrQFhArN,UK,"['Vorwerk', 'HALIENE', 'Zack Martino', 'Matt Steffanina']",English
+WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,UK,[],English
+Red Wine Supernova,Chappell Roan,The Rise and Fall of a Midwest Princess,2023-09-22,45,1PwsO9T862TqEyq4ZiuTME,UK,[],English
+Miracle,CARSTN,Miracle,2024-12-20,47,2x3btSPsMTPhd0SwE3IPJy,UK,['Jeoff Harris'],English
+NIGHTS LIKE THIS,The Kid LAROI,THE FIRST TIME,2023-11-10,87,1XBYiRV30ykHw5f4wm6qEn,UK,[],English
+I Had Some Help,Post Malone,I Had Some Help,2024-05-10,62,6N26C3tVDH3PKG0IrCIMSk,UK,['Morgan Wallen'],English
+Snow Flakes,MENA,Snow Flakes,2024-12-10,37,6kjxCx6mBsQH4Boh108pED,UK,['Carlos Stephens'],English
+Fortnight,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,83,2OzhQlSqBEmt7hmkYxfT6m,UK,['Post Malone'],English
+Too Sweet,Hozier,Unheard,2024-03-22,78,3HMY0r2BAdpasXMY8rseR0,UK,[],English
+Talk To Me,Kode PinK,Talk To Me,2024-02-02,30,1JHeyq2fGACVam8hfIrdKW,UK,['Faze'],English
+The Tortured Poets Department,Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,47,5jZhbVyA4j9MzLrBYKs35Z,UK,[],English
+Down Bad,Taylor Swift,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,50,5O4SPACkaBSKjBJEPYJwfQ,UK,[],English
+YOU ARE BEAUTY,Pamela Laws,YOU ARE BEAUTY,2025-01-17,12,5hFh2u68qpa55MkqArdGPx,UK,[],English
+Espresso,Sabrina Carpenter,Espresso,2024-04-12,88,2qSkIjg1o9h3YT9RAgYN75,UK,[],English
+Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,UK,[],English
+Seaside,Coffee Cub,Seaside,2024-12-13,43,21K4Ok0JRcsMolAUYmA7fq,UK,[],English
+i like the way you kiss me,Artemas,i like the way you kiss me,2024-03-19,83,2GxrNKugF82CnoRFbQfzPf,UK,[],English
+Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,UK,[],English
+Coming Home,TATE SEDAR,Coming Home (I.M.U),2024-12-06,24,1o9nOzUqCT4VneL98x4amD,UK,[],English
+TEXAS HOLD 'EM,Beyoncé,TEXAS HOLD 'EM,2024-02-09,56,7cPPeSxJ1VNAzUFH3Ms4Tm,UK,[],English
+Austin,Dasha,Austin (Boots Stop Workin'),2023-11-16,60,69wVo2cAAD7O9XSpSpTBAu,UK,[],English
+This Moment,My Silent Bravery,This Moment (featuring Maurico),2024-11-15,37,5j6ZCjUJZ08suduy9nUiil,UK,['Maurico'],English
+we can't be friends,Ariana Grande,eternal sunshine,2024-03-08,81,46kspZSY3aKmwQe7O77fCC,UK,[],English
+Belong Together,Mark Ambor,Belong Together,2024-02-16,79,5uQ7de4EWjb3rkcFxyEOpu,UK,[],English
+Let My People Go,Pastor Nate 'n The Traveling Mercy,Let My People Go,2024-12-09,36,33kAYX9QP5IHiAoPT7GCZx,UK,[],English
+Scared To Start,Michael Marcagi,Scared To Start,2024-01-12,82,3Pbp7cUCx4d3OAkZSCoNvn,UK,[],English
+Push Ups,Drake,Push Ups,2024-04-19,72,3eh51r6rFWAlGQRlHx9QnQ,UK,[],English
+OMG,Rafasan,OMG,2024-11-15,31,1kHKHW53V4DDKdz8cZeNMg,UK,[],English
+Stick Season,Noah Kahan,Stick Season,2022-10-14,86,0mflMxspEfB0VbI1kyLiAv,UK,[],English
+A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,65,1SviOIgEA8sEPVgYEdCpnh,UK,[],English
+WHEN YOU SLEEP,REAL MUSIC BAND,REAL,2024-07-19,16,1iBj2ul9pC9BgsEhn5Yb0s,UK,[],English
+Happier,The Blessed Madonna,Happier (feat. Clementine Douglas),2024-02-02,66,1TcF5F10EN17vraisG1gQv,UK,['Clementine Douglas'],English
+Tell Ur Girlfriend,Lay Bankz,Tell Ur Girlfriend,2024-02-07,71,3lMzT16MjAKKXF7pSZn13B,UK,[],English
+Indecent Proposition,Adrian Roman,Indecent Proposition EP,2024-08-30,22,0Bs5McFxQvk69OANWp80iS,UK,[],English
+Illusion,Dua Lipa,Illusion,2024-04-11,42,59xD5osEFsaNt5PXfIKUnX,UK,[],English
+Alibi,Ella Henderson,Alibi (feat. Rudimental),2024-01-12,72,5Jpz4nv8nA6FIYO5gEyQa2,UK,['Rudimental'],English
+Yo Gaba,Ben Bacardi,Yo Gaba,2024-08-10,22,7h202ewosZbcw244vcDwGR,UK,['Pelle'],English
+"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,UK,[],English
+Whatever She Wants,Bryson Tiller,Whatever She Wants,2024-02-12,43,4VfWJbVBErPQrB6ia3FGRA,UK,[],English
+Overload,TATE SEDAR,Overload,2024-10-31,26,2sQbUjCGDqTcFgzE45O3Uz,UK,[],English
+Unwritten,Natasha Bedingfield,Unwritten,2004-08-30,84,3U5JVgI2x4rDyHGObzJfNf,UK,[],English
+Birds In The Sky,NewEra,Birds In The Sky,2023-12-08,61,50SxWFCvmZCYcpKWPZECES,UK,[],English
+Stinkbug,Space Memory Effect,Stinkbug (Towards the Dark),2024-11-15,29,4iE9kOV7YjxXRiEJMzPyQ3,UK,[],English
+Like That,Future,WE DON'T TRUST YOU,2024-03-20,50,5M2KX4eOJLWlPdjV1UPwzS,UK,"['Metro Boomin', 'Kendrick Lamar']",English
+Hell N Back,Bakar,Hell N Back (feat. Summer Walker),2023-09-21,69,0ZDwhNFZnPx9EIPCcwGUHC,UK,['Summer Walker'],English
+You Break Me,Shoshana Ami,Baby,2024-10-04,23,1NRHBv1EZYKPCHiEs6FYmt,UK,[],English
+I Don't Wanna Wait,David Guetta,I Don't Wanna Wait,2024-04-05,84,331l3xABO0HMr1Kkyh2LZq,UK,['OneRepublic'],English
+Back On 74,Jungle,Volcano,2023-08-11,78,19kHhX6f6EfLU7rcO3RqjO,UK,[],English
+Sober,ET Boys,Sober,2021-06-25,34,6yXxGLfqdrFNj4S1ylpWcQ,UK,[],English
+Saturn,SZA,Saturn,2024-02-22,82,1bjeWoagtHmUKputLVyDxQ,UK,[],English
+Slow It Down,Benson Boone,Slow It Down,2024-03-21,71,6WO7IDGLakjO38lsvI2gHB,UK,[],English
+if you're up for it,Indira Ellis,if you're up for it,2024-11-01,26,4n3TQgEpW1ROgyzVxzMZC8,UK,[],English
+Forget About Us,Perrie,Forget About Us,2024-04-12,28,3wmnP7CY38ajyGfZUZ6vce,UK,[],English
+Green & Gold,Rudimental,Green & Gold (feat. Charlotte Plank & Riko Dan),2024-02-23,62,0JI8koDoC5crQbIjhSty59,UK,"['Skepsis', 'Charlotte Plank', 'Riko Dan']",English
+When the Lights Go Out,Marc Sway,When the Lights Go Out,2024-09-27,30,2lbjzuXnXIAglT0f7ghw5o,UK,[],English
+Cry No More,Headie One,Cry No More (feat. Stormzy & Tay Keith),2024-04-19,57,1RAwKDC2VKpxLy6es0KZTJ,UK,"['Stormzy', 'Tay Keith']",English
+End of Beginning,Djo,DECIDE,2022-09-16,88,3qhlB30KknSejmIvZZLjOD,UK,[],English
+The Right Guy,Yafania,The Right Guy,2024-07-19,31,7hsRr5OlAWrpnXgf6LCs0Y,UK,[],English
+These Words,Badger,These Words,2024-04-05,74,7leW1Dmvs9A4oDh9i5Qwpz,UK,['Natasha Bedingfield'],English
+Lovers In A Past Life,Calvin Harris,Lovers In A Past Life (with Rag'n'Bone Man),2024-02-16,62,6v4ABPB255HDSWyIj3S9Wn,UK,"[""Rag'n'Bone Man""]",English
+The Right Guy,Yafania,The Right Guy,2024-07-19,31,7hsRr5OlAWrpnXgf6LCs0Y,UK,[],English
+Home,Good Neighbours,Home,2024-01-17,22,6dpLxbF7lfCAnC9QRTjNLK,UK,[],English
+Jump,Tyla,Jump,2024-03-20,66,0ve0CavjqrUqVmZ605RhTV,UK,"['Gunna', 'Skillibeng']",English
+Let's Make Our Love Last - Remix,Mike Di Lorenzo,Slo' Jams,2024-08-30,34,3uQtU1E7VQKLkE95Kuu63H,UK,['Anna Moore'],English
+Prada,cassö,Prada (feat. D-Block Europe) [Clean],2023-09-05,43,5vR56XmFwKehzvCl0XHdRw,UK,"['RAYE', 'D-Block Europe']",English
+obsessed,Olivia Rodrigo,GUTS (spilled),2024-03-22,54,0pWB4X7xxFaTyQYdXXXpYw,UK,[],English
+Long Time,Matthew W Charles,Shark,2024-11-06,22,55BJhLpMbwTygFXEogEQ8i,UK,[],English
+DtMF,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,96,3sK8wGT43QFpWrvNQsrQya,USA,[],English
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,USA,['Bruno Mars'],English
+luther,Kendrick Lamar,GNX,2024-11-21,87,2CGNAOSuO1MEFCbBRgUzjd,USA,['SZA'],English
+All,Zoe Ray,All,2025-01-17,12,6IHb9PMB9Xqw3igHksDQxt,USA,[],English
+BAILE INoLVIDABLE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,94,2lTm559tuIvatlT1u0JYG2,USA,[],English
+Dig a Little Deeper,Daniel Quick,Dig a Little Deeper,2024-10-25,28,5G0lqOPOOjNlB4lamtdyKa,USA,[],English
+tv off,Kendrick Lamar,GNX,2024-11-22,91,0aB0v4027ukVziUGwVGYpG,USA,['Lefty Gunplay'],English
+Lost Time,CLYDE,Lost Time,2024-09-27,26,2R5MSYdHPD8sKc4BM0y4UZ,USA,[],English
+That’s So True,Gracie Abrams,The Secret of Us (Deluxe),2024-10-18,96,7ne4VBA60CxGM75vw0EYad,USA,[],English
+Walk Alone,Marcus Lindeberg,Walk Alone,2024-09-20,23,0jjmpCxUw8iZz23QKF9xTb,USA,[],English
+NUEVAYoL,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,93,5TFD2bmFKGhoCRbX61nXY5,USA,[],English
+Revolution,23 TheMiracle,Revolution,2024-09-15,22,5AuHi02V7j43JuJ0eoiGG9,USA,[],English
+Sticky,Tyler,CHROMAKOPIA,2024-10-28,89,3tFed7YsjGnIfxeLEQwx3R,USA,"['The Creator', 'GloRilla', 'Sexyy Red', 'Lil Wayne']",English
+No Second Chances,Jordi Highdale,No Second Chances,2024-10-04,23,1E11W7GIkKru5E7KpjaR87,USA,[],English
+Who,Jimin,MUSE,2024-07-19,90,7tI8dRuH2Yc6RuoTjxo4dU,USA,[],English
+THROW DAT,Matt Fella,THROW DAT,2024-10-25,22,3jE617bXLdgBXaS6yGd02C,USA,"['The Honorable SoLo D', 'MiamiSportsMusic']",English
+Sailor Song,Gigi Perez,Sailor Song,2024-07-26,93,2262bWmqomIaJXwCRHr13j,USA,[],English
+So Tell Me,Yara,So Tell Me,2024-10-25,17,2pd2ag0raoLDXqmX0fOWna,USA,[],English
+APT.,ROSÉ,rosie,2024-12-06,91,4wJ5Qq0jBN4ajy7ouZIV1c,USA,['Bruno Mars'],English
+Embrace The Pain,BA,Embrace The Pain (Chapter 1),2024-09-27,22,5JIjPc9rDfBX1DVooc2CNh,USA,['W3$t$id3 KY'],English
+BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,97,6dOtVTDdiauQNBQEDOtlAB,USA,[],English
+I've Always Been,Sean Kennedy,I've Always Been,2024-10-04,16,2kECkgfkOIAAoIMQaufJFd,USA,[],English
+Timeless,The Weeknd,Timeless,2024-09-27,92,1Es7AUAhQvapIcoh3qMKDL,USA,['Playboi Carti'],English
+Toxic,KayOrAlpha,Toxic,2024-07-05,23,1xzP0d7hJgZOU7E7Yjm0b8,USA,[],English
+Like Him,Tyler,CHROMAKOPIA,2024-10-28,90,6jbYpRPTEFl1HFKHk1IC0m,USA,"['The Creator', 'Lola Young']",English
+Energy,Coral Cross,Energy,2024-11-01,19,63Vhg45ZnvISHrywGe068r,USA,[],English
+"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,USA,[],English
+pieces,FABIAN,pieces,2024-05-31,18,4yFcOLEJhybtZCVT8KeyXC,USA,[],English
+squabble up,Kendrick Lamar,GNX,2024-11-22,88,0nj9Bq5sHDiTxSHunhgkFb,USA,[],English
+My Sunrise,Silvi Di,My Sunrise,2024-10-11,16,7LgMrJ3rKBNJDxMT24WlcW,USA,[],English
+Messy,Lola Young,This Wasn't Meant For You Anyway,2024-06-21,84,35ISBknsCeZQtq66xABI9g,USA,[],English
+Heaven,Ollie Harryson,Heaven,2024-06-07,19,1H1lJq9tx3pq00bpeZUT5N,USA,[],English
+Loco,Neton Vega,Loco,2024-12-20,87,63EQbNhgaih4yg5412usWG,USA,[],English
+Better Than Her,SINNAH,Better Than Her,2024-03-08,28,4NykJNyAnlVH4Awb15eTpa,USA,[],English
+No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,USA,[],English
+Casanova,Vain Villain Society,Casanova,2024-03-29,18,0y83UEjeQh27tFPJmNBKhK,USA,[],English
+BMF,SZA,SOS Deluxe: LANA,2024-12-20,89,3U3hFkMr0Q90pD24EkE3Pr,USA,[],English
+The Way We Move,KayOrAlpha,The Way We Move,2024-04-05,22,5gSOyNejS2lKKjMaYWQTMC,USA,[],English
+No Pole,Don Toliver,Love Sick (Deluxe),2023-02-28,87,0eaVIYo2zeOaGJeqZ5TwYz,USA,[],English
+SPACESHIP,Bobby Blaque,TO THE MOON,2022-07-15,1,2VgI2JnsoxdnEfibC0r8yS,USA,[],English
+See You Again,Tyler,Flower Boy,2017-07-21,89,7KA4W4McWYRpgf0fWsJZWB,USA,"['The Creator', 'Kali Uchis']",English
+Dirty South,KayOrAlpha,Dirty South,2024-03-01,16,5oLfKqwZCKLjiCaA54QFSp,USA,['JusJugga'],English
+WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,92,3QaPy1KgI7nu9FJEQUgn6h,USA,[],English
+For a While,Nour,For a While,2023-06-02,18,5pg9lf8fOtJgWTPOfrp6Xp,USA,[],English
+I Had Some Help,Post Malone,F-1 Trillion,2024-08-15,84,5IZXB5IKAD2qlvTPJYDCFB,USA,['Morgan Wallen'],English
+Stay Strong,Titus Drott,Writing In The Dark,2024-11-29,19,1mntZnBihxbiPb5pSX0eJg,USA,[],English
+Espresso,Sabrina Carpenter,Short n' Sweet,2024-08-23,88,2HRqTpkrJO5ggZyyK6NPWz,USA,[],English
+I Miss Love,CLYDE,I Miss Love,2024-12-06,20,4cBZaf9OI7oaMYuzG9sYDl,USA,[],English
+Lose Control,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,89,17phhZDn6oGtzMe56NuWvj,USA,[],English
+Your Love,Linda Englund,Your Love,2025-01-10,10,4LnjQsDrTCNbng93mBV9bf,USA,[],English
+APT.,ROSÉ,APT.,2024-10-18,95,5vNRhkKd0yEAg8suGBpjeY,Australia,['Bruno Mars'],English
+Are You Even Real,Teddy Swims,Are You Even Real (feat. Givēon),2025-01-10,77,4ZO4HvFADvujrrEidSatEC,Australia,['Giveon'],English
+Houdini,Dua Lipa,Houdini,2023-11-09,47,4OMJGnvZfDvsePyCwRGO7X,Australia,[],English
+No One Noticed,The Marías,Submarine,2024-05-31,86,3siwsiaEoU4Kuuc9WKMUy5,Australia,[],English
+Apple,Charli xcx,BRAT,2024-06-07,81,19RybK6XDbAVpcdxSbZL1o,Australia,[],English
+Indigo,Sam Barber,Restless Mind,2024-11-01,83,1KZG1H1OCugGqIRmk1wF9m,Australia,['Avery Anna'],English
+Burning Down,Alex Warren,Burning Down (with Joe Jonas),2024-12-06,74,3diSxgK7bRIZzqu5IqFgd1,Australia,['Joe Jonas'],English
+Somedays,Sonny Fodera,Somedays,2024-07-26,79,3wo3d0I5H8KjkwGvnz8WbB,Australia,"['Jazzy', 'D.O.D']",English
+True,CYRIL,True,2024-08-09,46,1amJavIEToI7pdHkPN6A1S,Australia,['Kita Alexander'],English
+Beautiful Things,Benson Boone,Fireworks & Rollerblades,2024-04-05,86,3xkHsmpQCBMytMJNiDf3Ii,Australia,[],English
+Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Australia,[],English
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Australia,['Bruno Mars'],English
+toxic till the end,ROSÉ,rosie,2024-12-06,88,1z5ebC9238uGoBgzYyvGpQ,Australia,[],English
+Girl Next Door,Oliver Cronin,Girl Next Door (with Charley),2024-08-29,37,4aRFUjAr2SurdXgDLLQ73u,Australia,['Charley'],English
+Illusion,Dua Lipa,Illusion,2024-04-11,42,59xD5osEFsaNt5PXfIKUnX,Australia,[],English
+Guess featuring billie eilish,Charli xcx,Guess featuring billie eilish,2024-08-01,81,3WOhcATHxK2SLNeP5W3v1v,Australia,['Billie Eilish'],English
+feelslikeimfallinginlove - Single Version,Coldplay,feelslikeimfallinginlove,2024-06-21,74,1YsU8rW2u8z4F0pwOBQ4Ea,Australia,[],English
+Pretty Slowly,Benson Boone,Pretty Slowly,2024-08-15,75,1QxxBUAx42J8pIFYJJR880,Australia,[],English
+360,Charli xcx,360,2024-05-10,57,7JxexWxny7yJ3slTLmWz2U,Australia,[],English
+Forever Young,David Guetta,Forever Young,2024-10-18,80,3bg2qahpZmsg5wV2EMPXIk,Australia,"['Alphaville', 'Ava Max']",English
+Kisses,BL3SS,Kisses (feat. bbyclose),2024-03-22,71,1bJRd2ey6ER7neSxZwYdAG,Australia,"['CamrinWatsin', 'bbyclose']",English
+KEHLANI,Jordan Adetunji,KEHLANI,2024-05-19,22,0izPpjfwsu2DuzWGqsABkT,Australia,[],English
+Talk talk featuring troye sivan,Charli xcx,Talk talk featuring troye sivan,2024-09-12,64,2LUD3874dlzeRa34Hi7ohW,Australia,['Troye Sivan'],English
+I Don't Wanna Wait,David Guetta,I Don't Wanna Wait,2024-04-05,84,331l3xABO0HMr1Kkyh2LZq,Australia,['OneRepublic'],English
+Stumblin' In,CYRIL,Stumblin' In,2023-11-10,83,0h3Xy4V4apMraB5NuM8U7Z,Australia,[],English
+i like the way you kiss me,Artemas,i like the way you kiss me,2024-03-19,83,2GxrNKugF82CnoRFbQfzPf,Australia,[],English
+ALL MY LOVE,Coldplay,ALL MY LOVE,2024-11-22,52,3PpIWOUaPwDxu0ysEaFfAr,Australia,[],English
+Burning Down,Alex Warren,Burning Down,2024-09-20,69,7gxQXemQ5MBeK9PUrKRtfV,Australia,[],English
+The Emptiness Machine,Linkin Park,The Emptiness Machine,2024-09-05,83,2PnlsTsOTLE5jnBnNe2K0A,Australia,[],English
+Austin,Dasha,What Happens Now?,2024-02-16,3,6b81dy3WjbozXK6b7C1gu5,Australia,[],English
+BLAME,James Johnston,BLAME,2024-09-12,51,6krhdjLqzCefSnaGgUidUq,Australia,[],English
+The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,Australia,[],English
+Espresso,Sabrina Carpenter,Espresso,2024-04-12,88,2qSkIjg1o9h3YT9RAgYN75,Australia,[],English
+Hot Honey,Tiësto,Hot Honey,2024-07-25,60,7fZtgiJSNJ2QarKKKSssBp,Australia,['Alana Springsteen'],English
+Carry You Home,Alex Warren,Carry You Home,2024-05-31,74,4uzKAj0mIyYmyhsRRyPXaQ,Australia,[],English
+Balance,Oliver Cronin,Halfway to Paradise,2024-10-03,35,21ZErdd3e2W8EunBqaQ9PY,Australia,[],English
+Fortnight,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,83,2OzhQlSqBEmt7hmkYxfT6m,Australia,['Post Malone'],English
+28,Zach Bryan,The Great American Bar Scene,2024-07-04,77,5iJKGpnFfvbjZJeAtwXfCj,Australia,[],English
+Scared To Start,Michael Marcagi,Scared To Start,2024-01-12,82,3Pbp7cUCx4d3OAkZSCoNvn,Australia,[],English
+places to be,Fred again..,places to be,2024-05-31,68,561pBFcFL2Pwb9HPO9tU8J,Australia,"['Anderson .Paak', 'CHIKA']",English
+These Walls,Dua Lipa,Radical Optimism,2024-05-03,70,7b6sWLSnbZhSIeqNGrJ4py,Australia,[],English
+we can't be friends,Ariana Grande,eternal sunshine,2024-03-08,87,51ZQ1vr10ffzbwIjDCwqm4,Australia,[],English
+Music is Better,RÜFÜS DU SOL,Music is Better,2024-06-21,58,2OnSedqUAqhCLZhCR4gjMw,Australia,[],English
+MILLION DOLLAR BABY,Tommy Richman,MILLION DOLLAR BABY,2024-04-26,28,7fzHQizxTqy8wTXwlrgPQQ,Australia,[],English
+Slow It Down,Benson Boone,Fireworks & Rollerblades,2024-04-05,84,51eSHglvG1RJXtL3qI5trr,Australia,[],English
+Is It Ever Gonna Make Sense,Budjerah,Is It Ever Gonna Make Sense,2024-07-17,41,7FbLFGKk2OBewYOgCa3cbT,Australia,[],English
+I Had Some Help,Post Malone,I Had Some Help,2024-05-10,82,7221xIgOnuakPdLqT0F3nP,Australia,['Morgan Wallen'],English
+Fall At Your Feet,CYRIL,Fall At Your Feet (with Dean Lewis),2024-07-12,66,0M0a2E5H8pUmqDHs0A4931,Australia,['Dean Lewis'],English
+Strangers,Kenya Grace,Strangers,2023-09-01,76,5mjYQaktjmjcMKcUIcqz4s,Australia,[],English
+A Bar Song,Shaboozey,A Bar Song (Tipsy),2024-04-12,85,2FQrifJ1N335Ljm3TjTVVf,Australia,[],English
+Pink Skies,Zach Bryan,Pink Skies,2024-05-24,84,4ZJ4vzLQekI0WntDbanNC7,Australia,[],English
+After Hours,Kehlani,After Hours,2024-04-04,68,2x03XLsTZ0o86h0cfHrkKF,Australia,[],English
+I Can Do It With a Broken Heart,Taylor Swift,THE TORTURED POETS DEPARTMENT,2024-04-18,81,4q5YezDOIPcoLr8R81x9qy,Australia,[],English
+Too Sweet,Hozier,Unheard,2024-03-22,76,4IadxL6BUymXlh8RCJJu7T,Australia,[],English
+End of Beginning,Djo,DECIDE,2022-09-16,88,3qhlB30KknSejmIvZZLjOD,Australia,[],English
+Dance Alone,Sia,Dance Alone,2024-02-07,56,1XZy2eprbATl4AnL9Fpsw1,Australia,['Kylie Minogue'],English
+Talk talk,Charli xcx,BRAT,2024-06-07,66,62fqMvguJbsSs9HKhhRfuS,Australia,[],English
+"Good Luck, Babe!",Chappell Roan,"Good Luck, Babe!",2024-04-05,92,0WbMK4wrZ1wFSty9F7FCgu,Australia,[],English
+Mamushi,Megan Thee Stallion,MEGAN,2024-06-28,77,5b3XJ1pjrHO5JtY2PcTjnI,Australia,['千葉雄喜'],English
+Lovin On Me,Jack Harlow,Lovin On Me,2023-11-10,81,4xhsWYTOGcal8zt0J161CU,Australia,[],English
+I Remember Everything,Zach Bryan,Zach Bryan,2023-08-25,84,4KULAymBBJcPRpk1yO4dOG,Australia,['Kacey Musgraves'],English
+Training Season,Dua Lipa,Training Season,2024-02-15,75,6Qb7YsAqH4wWFUMbGsCpap,Australia,[],English
+if u think i'm pretty,Artemas,pretty,2024-02-09,78,1ACA277B6f46DYCgZW8di3,Australia,[],English
+Stubborn,Illy,Stubborn,2024-07-18,23,6mV7p9MK2gbFsholZhjIIk,Australia,[],English
+obsessed,Olivia Rodrigo,GUTS (spilled),2024-03-22,75,6tNgRQ0K2NYZ0Rb9l9DzL8,Australia,[],English
+Before You Leave Me,Alex Warren,Before You Leave Me,2024-02-16,68,7qoxdajngC0j9VXrcnephA,Australia,[],English
+Hammer to the Heart,Teddy Swims,I've Tried Everything But Therapy (Part 1.5),2024-04-26,74,0IdwfnHFfyb7zc7GFs75QQ,Australia,[],English
+So Cold,Balu Brigada,So Cold,2024-06-07,65,297PYWIVLP38C1a92ND8Kv,Australia,[],English
+Please Please Please,Sabrina Carpenter,Please Please Please,2024-06-06,84,5N3hjp1WNayUPZrA8kJmJP,Australia,[],English
+Ain't No Love In Oklahoma,Luke Combs,Ain't No Love In Oklahoma (From Twisters: The Album),2024-05-16,81,6GG4yyk3UATdBfTHVgI8PB,Australia,[],English
+Cry,Benson Boone,Fireworks & Rollerblades,2024-04-05,74,3h76tbaYIamSeJL81X7ZwI,Australia,[],English
+Spite,Omar Apollo,Spite,2024-04-05,47,0XHFylA18yuwGVCfJfq4dw,Australia,[],English
+Burning House,Oliver Cronin,Burning House,2024-04-18,40,7HGFfxOpk3lZbOQywYfMTJ,Australia,[],English
+if u think i'm pretty,Artemas,if u think i'm pretty,2023-10-24,68,34Yl756FwYuZldE9xnshj5,Australia,[],English
+Zodiac,Kita Alexander,Young In Love,2024-03-22,32,5IsJtIM3On4BNkSujt4A2c,Australia,[],English
+Stick Season,Noah Kahan,Stick Season,2022-10-14,86,0mflMxspEfB0VbI1kyLiAv,Australia,[],English
+Nice to meet you,PinkPantheress,Heaven knows,2023-11-10,58,1jLVSavLHTeEixX6CIxqQR,Australia,['Central Cee'],English
+Calling After Me,Wallows,Calling After Me,2024-03-21,59,2WGcpz55A2vrvh6foEGCNL,Australia,[],English
+"Girl, so confusing featuring lorde",Charli xcx,"Girl, so confusing featuring lorde",2024-06-21,66,2YFhqZvhTpyK13gKXMKV7R,Australia,['Lorde'],English
+Tear It All Apart,Michael Marcagi,Tear It All Apart,2024-06-21,58,2paY84rEBVDm46rdPaQY88,Australia,[],English
+BROTHER STONE,Don Toliver,HARDSTONE PSYCHO,2024-06-14,71,093MlZS93ZKlHpGkmb3k3W,Australia,['Kodak Black'],English
+Contigo,Marta Santos,Contigo,2024-11-22,64,5Txf0ApheFvyRr1s4DxMb5,Spain,[],Spanish
+¿Y si lo hacemos?,Dani Fernández,La Jauría,2024-10-25,60,1VamVCJejLZh212lNhygVw,Spain,['Valeria Castro'],Spanish
+"Hola, qué tal?",Beret,"Hola, qué tal?",2024-10-04,68,5Z8nG5FVaBbASxtlVBu44v,Spain,[],Spanish
+Me has invitado a bailar,Dani Fernández,Me has invitado a bailar,2024-08-23,67,0JJw1ghkoEu3Yat1uOSjAE,Spain,[],Spanish
+APT.,ROSÉ,APT.,2024-10-18,95,5vNRhkKd0yEAg8suGBpjeY,Spain,['Bruno Mars'],Spanish
+haz lo que quieras conmigo,Walls,haz lo que quieras conmigo,2024-09-20,61,635oxQ6Vn3ynUUg6EfQKw9,Spain,[],Spanish
+La Vida Entera,Marta Santos,La Vida Entera,2024-04-12,61,1zgb3QCX8jo4IGRg56tjvj,Spain,[],Spanish
+Are You Even Real,Teddy Swims,Are You Even Real (feat. Givēon),2025-01-10,77,4ZO4HvFADvujrrEidSatEC,Spain,['Giveon'],Spanish
+Nuestra Canción,Álvaro De Luna,Nuestra Canción,2024-07-26,60,2MJlcHWfkA651gpiCRJ2TE,Spain,[],Spanish
+Cupido,Beret,Cupido,2024-06-20,58,6h3U07z62eGIuyOprHwzgZ,Spain,[],Spanish
+Bad Dreams,Teddy Swims,Bad Dreams,2024-09-13,87,3nHuKdFJZm78CoeBnDcFKe,Spain,[],Spanish
+"Tanto, tanto, tanto",Paul Alone,"Tanto, tanto, tanto",2024-12-13,49,0Uau9rHJZJeKd5w8M9F35v,Spain,[],Spanish
+TAN FRÍO,Recycled J,TAN FRÍO,2024-09-18,46,66QkHNV2z5d6C0wmN8axe0,Spain,[],Spanish
+Todo cambia,Dani Fernández,Todo cambia,2024-01-18,56,0uOxKY91hTmnJOxGPGpJtd,Spain,[],Spanish
+The Door,Teddy Swims,I've Tried Everything But Therapy (Part 1),2023-09-15,86,3dj4wgM3cPeuLwMNHDuBon,Spain,[],Spanish
+SE TE NOTA,Myke Towers,LA PANTERA NEGRA,2024-08-22,64,1iIrqtbY2aogEHhQkmrV7w,Spain,['Peso Pluma'],Spanish
+ENSÉÑAME,Nil Moliner,ENSÉÑAME (feat. Rozalén),2024-08-30,44,0sfPsrIe2DKbOVnOUBP0eD,Spain,['Rozalén'],Spanish
+A 200,Rasel,A 200,2024-05-03,50,5SZSKqau8KDBSMraCFrSlb,Spain,"['Henry Mendez', 'Big Lois']",Spanish
+Bonito,Demarco Flamenco,Bonito,2024-07-05,61,0VvKhRZQRdNnolSSkHVgPh,Spain,[],Spanish
+Lose Control,Teddy Swims,Lose Control,2023-06-23,81,6usohdchdzW9oML7VC4Uhk,Spain,[],Spanish
+Llorando en el Lambo,Lérica,Llorando en el Lambo,2024-02-23,56,7ms9TmXD1qVWhuGCQFTT16,Spain,"['Mar Lucas', 'Daviles de Novelda']",Spanish
+IBIZA,Soge Culebra,IBIZA,2024-06-07,49,5AU2gpAgq83vIELugCWx9G,Spain,"['Lucho RK', 'Mr. Naisgai']",Spanish
+Beautiful Things,Benson Boone,Beautiful Things,2024-01-18,85,6tNQ70jh4OwmPGpYy6R2o9,Spain,[],Spanish
+ADIVINO,Myke Towers,ADIVINO,2024-04-25,74,0LZy30mVmxqUpdQmaXKXBd,Spain,['Bad Bunny'],Spanish
+1 FANTASÍA,Soge Culebra,1 FANTASÍA,2024-05-10,35,0MtK2ICtOXzYJaRfiDwcee,Spain,['The Rudeboyz'],Spanish
+Lucas y Marta,Marlon,Lucas y Marta,2024-06-07,38,0GnBtvSUflXvdTTtTYRFA3,Spain,[],Spanish
+feelslikeimfallinginlove - Single Version,Coldplay,feelslikeimfallinginlove,2024-06-21,74,1YsU8rW2u8z4F0pwOBQ4Ea,Spain,[],Spanish
+La última granada,Beret,La última granada,2024-03-15,56,4wCFO12O6g2yY2xiC3EBA8,Spain,[],Spanish
+Olvidé Olvidarte,Marlon,Olvidé Olvidarte,2023-06-08,48,6nys7RehgP4R0KzSVGm3CI,Spain,['Álvaro De Luna'],Spanish
+Hoy Festejo,Álvaro De Luna,Hoy Festejo,2023-09-26,42,5VzeBUPnyf9rWSPkEFeL6X,Spain,['TIMØ'],Spanish
+NO PIENSO LLAMAR,Soge Culebra,NO PIENSO LLAMAR,2023-10-06,53,3xE3TyeIxL24IstPdy5IBv,Spain,"['Quevedo', 'GARABATTO']",Spanish
+VUELA ALTO,Nil Moliner,VUELA ALTO,2023-09-08,0,6Up49hQmFHWPMpxN8FIu9o,Spain,[],Spanish
+Todo Contigo,Álvaro De Luna,Todo Contigo,2023-03-17,56,4rQu72zFJz3qne1bnEkVSt,Spain,[],Spanish
+AMALFI,Enol,AMALFI,2024-07-04,36,5dZWpk7YHEY9EqhXJRLlsf,Spain,[],Spanish
+Acantilado,Veintiuno,Acantilado,2024-09-13,43,3fGXwYc0Pq4xXTYfkUJMoc,Spain,['Enol'],Spanish
+SANTORINI REMIX,Enol,SANTORINI REMIX,2023-04-21,50,4Q5bNe8cEp5KhDsQOIV2QB,Spain,"['Marmi', 'Beret']",Spanish
+Libertad,Nil Moliner,Un Secreto Al Que Gritar,2021-10-22,56,1kG7gfH4HDUlDht0VZYkiP,Spain,[],Spanish
+Amapolas,Leo Rizzi,Amapolas,2021-07-09,68,0z5yLgBmAtaylDYrgwzlpH,Spain,[],Spanish
+Juramento eterno de sal,Álvaro De Luna,Juramento eterno de sal,2020-11-05,54,23E53f3C9SJ9MqBh1f6hEw,Spain,[],Spanish
+Tiroteo - Remix,Marc Seguí,Tiroteo (Remix),2021-04-01,78,4OwhwvKESFtuu06dTgct7i,Spain,"['Rauw Alejandro', 'Pol Granch']",Spanish
+DtMF,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,96,3sK8wGT43QFpWrvNQsrQya,Mexico,[],Spanish
+ROSONES,Tito Double P,ROSONES,2024-12-05,89,0LTwdL5yZ6YOTEGUQPFuSN,Mexico,[],Spanish
+Loco,Neton Vega,Loco,2024-12-20,87,63EQbNhgaih4yg5412usWG,Mexico,[],Spanish
+NADIE,Tito Double P,NADIE,2024-11-21,88,7sd6zMrgGpEa7NkQm9TRrg,Mexico,[],Spanish
+Presidente,Gabito Ballesteros,Presidente,2024-10-21,87,4OLT65TRsOx3Iv1TlCcQVb,Mexico,"['Natanael Cano', 'Luis R Conriquez', 'Neton Vega']",Spanish
+DOS DÍAS,Tito Double P,INCÓMODO,2024-08-22,87,5lKFO0PrOC9jmOlPEdjHsL,Mexico,['Peso Pluma'],Spanish
+One Of A Kind,Star 2,One Of A Kind,2024-12-06,37,1zoNRNiiZOBKESXZcOHtOM,Mexico,['SPRITE'],Spanish
+BAILE INoLVIDABLE,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,94,2lTm559tuIvatlT1u0JYG2,Mexico,[],Spanish
+ME JALO,Fuerza Regida,MALA MÍA,2024-12-19,86,3D24ErT1MMmUfXWotSj2A2,Mexico,['Grupo Frontera'],Spanish
+Tu Boda,Oscar Maydon,Tu Boda,2024-09-26,90,1cOboCuWYI2osTOfolMRS6,Mexico,['Fuerza Regida'],Spanish
+EL LOKERON,Tito Double P,INCÓMODO,2024-08-22,87,6X6m4xmdFcz31p1h7Qg68c,Mexico,[],Spanish
+ROSONES,Jorsshh,ROSONES,2024-11-15,86,6x59lSlNU7TvsJZy7134uC,Mexico,['Fuerza Regida'],Spanish
+EoO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,6J5kc12BW5HuP3d7C3vvx8,Mexico,[],Spanish
+THE DRIFTER,Polybit,THE DRIFTER,2024-11-08,38,3kx72C6CXhCLWwhKyjKbmg,Mexico,[],Spanish
+NUEVAYoL,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,93,5TFD2bmFKGhoCRbX61nXY5,Mexico,[],Spanish
+gervonta,Peso Pluma,gervonta,2024-12-05,87,0hfXHqWhOpbR9YQmQojDMN,Mexico,[],Spanish
+5-7,Tito Double P,INCÓMODO,2024-08-22,84,3IEvQ1CzszUJtTRLmmMJ2X,Mexico,['Junior H'],Spanish
+Amapola,Natanael Cano,Amapola,2024-12-05,83,43558Td2trz7O0chZYohEE,Mexico,['Nueva H'],Spanish
+Between Us,C'SAR,Between Us,2021-10-15,38,1yMXFkzly4LgX8IO7JORlR,Mexico,"['WEEKLESS', 'WEDONT']",Spanish
+AY MAMÁ,Tito Double P,INCÓMODO,2024-08-22,84,2lAUq68F2bt7Kc218n9FPp,Mexico,['Grupo Frontera'],Spanish
+Morena Canela,Chino Pacas,Que Sigan Llegando Las Pacas (Extended),2024-10-18,84,0NsGFMIo2aNbAkJu48ndaf,Mexico,[],Spanish
+VOY A LLeVARTE PA PR,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,92,59D4DOkspUbWyMmbAPQkxZ,Mexico,[],Spanish
+ESCAPATE,Tito Double P,INCÓMODO,2024-08-22,85,6HrALJOMsfPCCbUo5cJCON,Mexico,['Chino Pacas'],Spanish
+Qué Pasaría...,Rauw Alejandro,Cosa Nuestra,2024-11-15,91,0l0vcZMU7AOeQmUIREoI2U,Mexico,['Bad Bunny'],Spanish
+Ese Vato No Te Queda,Carin Leon,Ese Vato No Te Queda,2024-10-24,82,4Ndjd6DhKIC5IPoBIrMQuX,Mexico,['Gabito Ballesteros'],Spanish
+Bandida,Luis R Conriquez,Bandida,2025-01-16,75,4dF08DjAjgactxNnsjRod6,Mexico,['Peso Pluma'],Spanish
+WELTiTA,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,91,5WEF0icHWmAZBBMglBd599,Mexico,['Chuwi'],Spanish
+LA PATRULLA,Peso Pluma,ÉXODO,2024-06-20,84,2aYZaN5SmkRDLsrrV8GkBQ,Mexico,['Neton Vega'],Spanish
+ROCKSTAR,Junior H,$AD BOYZ 4 LIFE II,2023-10-05,83,6YOfGIE6iFxC7G8OlGGvzW,Mexico,[],Spanish
+Khé?,Rauw Alejandro,Cosa Nuestra,2024-11-15,88,1YYfyJ2yCvGFCxwjsIqEK9,Mexico,['Romeo Santos'],Spanish
+VeLDÁ,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,91,7d6yK8v8J484SWH5prIQiE,Mexico,"['Omar Courtz', 'Dei V']",Spanish
+HOLLYWOOD,Peso Pluma,ÉXODO,2024-06-20,81,5GTBdEjZe7zEDp1N0eCZE4,Mexico,['Estevan Plazola'],Spanish
+KLOuFRENS,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,4MUrUT38U98olfnyzMBCzm,Mexico,[],Spanish
+Madonna,Natanael Cano,Madonna,2024-03-08,83,5LhI8m7n8xlQmNe3b7Rwis,Mexico,['Oscar Maydon'],Spanish
+El Mayor De Los Ranas,Victor Valverde,Con Tokio,2025-01-17,52,6v5qt5KPQHJt5ckWuhDGtM,Mexico,['JR Torres'],Spanish
+Si Antes Te Hubiera Conocido,KAROL G,Si Antes Te Hubiera Conocido,2024-06-21,92,6WatFBLVB0x077xWeoVc2k,Mexico,[],Spanish
+EL CLúB,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,89,0iKo4pNNjHHdKUcFARlfCa,Mexico,[],Spanish
+LINDA,Tito Double P,INCÓMODO,2024-08-22,79,7qXptgpZGo8AFPhJCBVLFE,Mexico,['Neton Vega'],Spanish
+LOS CUADROS,Peso Pluma,LOS CUADROS,2024-08-08,81,41EOhpn50qvd8iZSKw531W,Mexico,['Tito Double P'],Spanish
+PRIMO,Tito Double P,INCÓMODO,2024-08-22,80,7AysIqSEDiwP4CUsAXJwrk,Mexico,['Natanael Cano'],Spanish
+TU SI,Tito Double P,INCÓMODO,2024-08-22,77,0zLA16D7GXoT8K7XFaiCv3,Mexico,['Armenta'],Spanish
+PERFuMITO NUEVO,Bad Bunny,DeBÍ TiRAR MáS FOToS,2025-01-05,90,1Q9Efnm5csdCMFynISxL2x,Mexico,['RaiNao'],Spanish
+Si No Quieres No,Luis R Conriquez,Si No Quieres No,2024-03-10,83,1C84d9abZVKWHT2YYpoean,Mexico,['Neton Vega'],Spanish
+PIÉNSALO,Junior H,$AD BOYZ 4 LIFE II,2023-10-05,82,4ZOkfHC38nxSeSqzGE5HFr,Mexico,[],Spanish
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Mexico,['Bruno Mars'],Spanish
+Mejores Jordans,Victor Mendivil,Mejores Jordans,2024-07-30,80,1cZHUhGz7xJ8c4szDipipd,Mexico,['Oscar Maydon'],Spanish
+APT.,ROSÉ,rosie,2024-12-06,91,4wJ5Qq0jBN4ajy7ouZIV1c,Mexico,['Bruno Mars'],Spanish
+Pika Pika,Chuyin,Pika Pika,2024-11-29,75,5LHPcY9yd0hWVFIW4yfOCJ,Mexico,"['Fuerza Regida', 'Jorsshh', 'Calle 24']",Spanish
+Rey Sin Reina,Julión Álvarez y su Norteño Banda,Atento Aviso ... Rey Sin Reina,2024-09-05,81,0BiDnJFB3TlRB6aji7jUz3,Mexico,[],Spanish
+BLANCA ROSITA Y MARIA,Tito Double P,INCÓMODO,2024-08-22,80,1wsDxqEDpsvNCatbXHjOje,Mexico,[],Spanish
+Cópia Proibida,Léo Foguete,Obrigado Deus,2024-10-26,83,280QfKhmWGn3LbyB39aA7u,Brazil,[],Portuguese
+Oh Garota Eu Quero Você Só Pra Mim,Oruam,Oh Garota Eu Quero Você Só Pra Mim,2024-12-17,84,0BUkQGUXgcvf3gdCWYbtnJ,Brazil,"['Zé Felipe', 'MC Tuto', 'Dj Lc da Roça', 'MC K9', 'Mc Rodrigo do CN', 'mc pl alves']",Portuguese
+Fui Mlk,Nilo,Fui Mlk,2024-11-22,84,4pOGEJRVOuaa9oyy7qTGf6,Brazil,"['Mc Paiva ZS', 'DJ Di Marques', 'FamousKyo']",Portuguese
+Tando,Nuzio Medeiros,Tando,2024-11-28,84,4seW5sDVICaZw34NzrHPm0,Brazil,"['Henry Freitas', 'Kadu Martins']",Portuguese
+Pilantra e Meio,Eric Land,Pilantra e Meio,2024-11-08,87,2k7EhDUKXApmeYVew9xeDf,Brazil,['Natanzinho Lima'],Portuguese
+Coração Partido - Ao Vivo,Grupo Menos É Mais,Churrasquinho 3 (Ao Vivo),2024-11-14,74,6Kyl2nFgU0J8WBlbBvDv6g,Brazil,[],Portuguese
+Young,Bias,Young,2024-12-20,36,1K0TY34wKXxw2xy817r1ht,Brazil,"['Bring2Life', 'Lion']",Portuguese
+Barbie,MC Tuto,Barbie,2024-10-18,84,6s1kzj4EbhFLXbuAGJbhbn,Brazil,['DJ Glenner'],Portuguese
+Descer Pra BC,Brenno & Matheus,Descer Pra BC,2024-11-15,83,6RzcNTnS02dnqoQMdTkQwi,Brazil,['DJ Ari SL'],Portuguese
+Imã de Problema,Henry Freitas,Toca Que Eu Quero Ouvir,2024-09-20,87,7HrDxxY2b7vOKxJHtqdXN6,Brazil,['Mc Th'],Portuguese
+Resenha do Arrocha,J. Eskine,Resenha do Arrocha,2024-11-29,81,0NQyryTVbjGMtWMA1eSqIn,Brazil,['Alef Donk'],Portuguese
+Do Job,MC Tuto,Do Job,2024-11-11,80,3TnSAp3TfGMYptOqv234uK,Brazil,['Grelo'],Portuguese
+Femme Like U - Tribute 2024 Remix by Tribbs,K.Maro,Femme Like U (Tribute 2024 Remix by Tribbs),2024-12-13,44,3BAb6WZUhmPxEkoWK6aQZn,Brazil,['Tribbs'],Portuguese
+Última Saudade - Ao Vivo,Henrique & Juliano,Manifesto Musical 2 (Ao Vivo / Vol.1),2024-12-13,71,4y93vvzu2h8MITw7YyUTcI,Brazil,[],Portuguese
+Última Noite - Solo,Léo Foguete,Obrigado Deus,2024-10-26,73,3cwVKjzKSTfvacYJF6Tkub,Brazil,[],Portuguese
+Cantada Boba - Ao Vivo,Jorge & Mateus,Check-In (Ao Vivo),2024-11-07,81,2gfn28JSINCJGLrUimmu0l,Brazil,[],Portuguese
+2025,MC Tuto,2025,2024-12-16,78,0UGGLKM970ymsBBN5TKjsD,Brazil,['DJ Oreia'],Portuguese
+Miss You,Gran Error,Miss You,2024-12-13,38,53O4Ml3JlLojE19onincHb,Brazil,[],Portuguese
+Última Noite,NATTAN,Estilo Nattanzinho (Ao Vivo em São Paulo),2024-08-07,79,6Ap9SM1WkmI4b4Mo2Cpa6f,Brazil,['Léo Foguete'],Portuguese
+Medley de Igaratá 3,Mc Negão Original,Medley de Igaratá 3,2024-11-07,80,4FbYt9D0katV4nXZaC01Yt,Brazil,"['DJ Guh Mix', 'DJ Japa NK']",Portuguese
+Malvadinho,MC LUUKY,Menor do Desacato,2024-12-03,72,5TOvA5Uhxti7FPh0EIdClV,Brazil,['DJ JB Mix'],Portuguese
+Mentirosa - Ao Vivo,Hugo & Guilherme,Mentirosa (Ao Vivo),2024-12-19,80,7pBPXkaVQaP3Y3Wwfkpvbn,Brazil,['Wesley Safadão'],Portuguese
+Stuck,82MAJOR,X-82,2024-10-15,50,1opdEnVoRU71lZHyjgNMGJ,Brazil,[],Portuguese
+Puta É Só um Detalhe,DJ Douglinhas,Puta É Só um Detalhe,2024-10-14,57,4eqOz5gdCYww9GB5q3q1pU,Brazil,"['DJ Miller Oficial', 'MC Torugo']",Portuguese
+MTG NA IMAGINAÇÃO - TOPO SESSIONS VOL. 1,DJ TOPO,MTG NA IMAGINAÇÃO (TOPO SESSIONS VOL. 1),2024-09-13,81,4jUZymsR3lkia9wkP0o9cX,Brazil,['Mc Livinho'],Portuguese
+Body Splash - Ao Vivo,Felipe Araújo,Carta Aberta (Ao Vivo / Vol.1),2024-11-06,74,1AM8pZn5uY89vkItAH5bm3,Brazil,['Luan Pereira'],Portuguese
+Sei Tocar Violão - Ao Vivo,Clayton & Romário,Ao Vivo Em Brasília (EP3),2024-09-26,81,2KdyhL41F9solmRiyLQ3yl,Brazil,[],Portuguese
+Sit Down,Lahrel,Sit Down,2024-10-18,36,2yoSCIiSDgHGj71QRa2bjV,Brazil,['Afro B'],Portuguese
+UM PALMO - Ao Vivo,Luan Pereira,UM PALMO (Ao Vivo),2024-12-11,77,2M2eRVCQbC3rHFSm9oT3YD,Brazil,['Léo Foguete'],Portuguese
+Penélope Charmosa 2,Boladin 211,Penélope Charmosa 2,2024-09-27,72,6VH6SBNNL2RVWwImq046ce,Brazil,"['Dejinha', 'MC Rick']",Portuguese
+FANTASMA,GORDÃO DO PC,FANTASMA (versão GORDÃO DO PC),2024-12-11,75,6x6EA3N9xXgptSakS7VZUg,Brazil,"['Mc Menor DN', 'Mc Leozin', 'Ana Laura Lopes']",Portuguese
+Sujeito Homem - Ao Vivo,Guilherme & Benuto,Sujeito Homem (Ao Vivo),2024-10-17,80,2cGRf9skACWnKRK1eLYBJn,Brazil,[],Portuguese
+One Of A Kind,Star 2,One Of A Kind,2024-12-06,37,1zoNRNiiZOBKESXZcOHtOM,Brazil,['SPRITE'],Portuguese
+Banquinho - Ao Vivo,Felipe e Rodrigo,As melhores de 2024 - Felipe e Rodrigo (Ao Vivo),2024-12-20,41,6tiLLehoFiDA8yk4ePebgp,Brazil,[],Portuguese
+Arruma Um Bão,Israel & Rodolffo,Termômetro,2024-10-03,80,6ukVCqH77f6cwRHyJBhGgy,Brazil,[],Portuguese
+Peça Íntima,Murilo Huff,Peça Íntima,2024-10-10,80,5rHhO6SBSzo3E9m3KHyCtt,Brazil,['Ana Castela'],Portuguese
+A Danada Me Ligando,MC Cebezinho,A Danada Me Ligando,2024-08-23,80,3H7eBmcTJyuEMStfmKuLmG,Brazil,"['DJ Oreia', 'MC Tuto', 'Love Funk', 'Mc Kako']",Portuguese
+5D,Steinsdotter,5D,2024-12-15,36,1jGvgeLgyeNXKFWZD8jqWB,Brazil,[],Portuguese
+Uma e Quinze da Manhã,Natanzinho Lima,De Bar em Bar 4.0,2024-03-06,79,39O9PGzlZnVTOhAYQjyBRG,Brazil,[],Portuguese
+Mentira Estampada,Wesley Safadão,Arrocha Safadão,2024-09-06,76,4dGx53NJZJyuuLP5ownH1p,Brazil,['Natanzinho Lima'],Portuguese
+Apaguei Pra Todos - Ao Vivo,Ferrugem,"Ferrugem 10 Anos, Vol. 1: O Início (Ao Vivo)",2024-04-18,77,65vJAh07BdwurqR9SRa6f8,Brazil,['Sorriso Maroto'],Portuguese
+Float Away,MYKNS,Float Away,2024-11-29,48,0XsZBDsx5AE8oTfvnbDDYt,Brazil,['soleil'],Portuguese
+PARECE - Ao Vivo,Luan Santana,Verão Sertanejo 2025 - Só Hits,2025-01-09,66,4HDqfO6SQMHFeGDFcepIPP,Brazil,[],Portuguese
+365 Dias,MC Marks,365 Dias (Vida Mansa),2024-09-27,80,2drZGdAOxfE2KoMGTkidmq,Brazil,"['MC Ryan SP', 'MC Jvila', 'MC Bruno MS', 'Mc Magal', 'Aaron Modesto', 'DJ Dael']",Portuguese
+Vai Lá - Ao Vivo em Goiânia,Maiara & Maraisa,iMEMsidão (Ao Vivo em Goiânia),2024-12-12,64,5DxPUI3cMU7EkayHlYLJCI,Brazil,[],Portuguese
+Die With A Smile,Lady Gaga,Die With A Smile,2024-08-16,100,2plbrEY59IikOBgBGLjaoe,Brazil,['Bruno Mars'],Portuguese
+Paredões,Grelo,Paredões,2024-11-29,75,4IlklRFZUgNQlwwW0PSLm7,Brazil,['Henrique & Juliano'],Portuguese
+E Aí Como Que Tá ?,MC Tuto,2T Na Levada,2024-09-26,77,44BehH5rk8B5K4OtRxqpez,Brazil,['Oldilla'],Portuguese
+"Chapa Máxima - feat. CAO$, Dj Lv Mdp",Boladin 211,"Chapa Máxima (feat. CAO$, Dj Lv Mdp)",2024-12-05,74,3yCtRV7LMeGBpvSHDR8uMV,Brazil,"['MC Rick', 'MC Leozinho ZS', 'CAO$', 'Dj Lv Mdp']",Portuguese
+Cachorro,Thiago Carvalho,Cachorro,2024-12-20,78,2f6GG12VL2rGMS9BGjD7rM,Brazil,[],Portuguese
+Interestelar,Plutonio,Carta de Alforria,2024-11-08,63,5lGXgWvY60L80gKGk5Clgc,Portugal,[],Portuguese
+Amar Pela Metade,Calema,Amar Pela Metade / Aimer À Moitié,2024-09-20,57,3NhDCAOOhfGrHxuwquVgNz,Portugal,[],Portuguese
+Vem Cá,No Maka,Vem Cá,2025-01-09,34,6PYtp8saDbdZftCBQm3F74,Portugal,['Joana Oliveira'],Portuguese
+Desliza,Ana Moura,Desliza,2024-09-19,47,5CYWaMpBev0t7JgscBAeYv,Portugal,[],Portuguese
+País das Maravilhas,Plutonio,Carta de Alforria,2024-11-08,59,0qGRWcPOMkkt7edm4wMVRf,Portugal,[],Portuguese
+Bênção,Mizzy Miles,Bênção,2024-03-01,59,1hdWqiFAy5hNRxyVpDy81P,Portugal,"['Van Zee', 'Bispo']",Portuguese
+Chuva,Diogo Piçarra,Chuva,2024-11-15,42,2uB7S2blkS8H0HnzwWAQDS,Portugal,[],Portuguese
+CHAMPIONS LEAGUE,Mizzy Miles,CHAMPIONS LEAGUE,2025-01-17,50,7jMSd85QqbHjqlpDSr66Hg,Portugal,"['Slow J', 'Gson']",Portuguese
+Faz Bem,Bluay,Faz Bem,2024-01-19,58,38adAyMqsOEwCdXETWCPPa,Portugal,['Julinho Ksd'],Portuguese
+O Teu Cheiro,Bispo,O Teu Cheiro,2024-10-11,56,23PQOfRFXeQ6ZR4q7ZfM5r,Portugal,[],Portuguese
+Só Fé,Grelo,É o Grelo,2024-07-19,73,0bPP5cDG1ZnbAVCEa3ZbQ1,Portugal,[],Portuguese
+Quem És Tu?,Van Zee,ALTA COSTURA,2025-01-10,46,51Bmvm95rfbb7fJnVzAC77,Portugal,['FRANKIEONTHEGUITAR'],Portuguese
+Juras,Mariana Pereira,Juras,2025-01-17,32,0bMU79dbvAax22hvi3u7ot,Portugal,[],Portuguese
+Acordar,Plutonio,Acordar,2024-05-24,58,1M7pnSHpd4i5xFE2nUGq2W,Portugal,[],Portuguese
+Por ti Amor,Matias Damásio,Por ti Amor,2024-11-15,48,2ZrBQjL7BS9y1zXUgWSf4U,Portugal,['D.A.M.A'],Portuguese
+Before I Lose My Voice,Richie Campbell,Before I Lose My Voice,2024-09-27,52,7frjoQg8cSUY0Pb7OpCvl5,Portugal,[],Portuguese
+Even,Richie Campbell,IT WILL HURT BOTH WAYS,2024-06-14,57,1cTamrfYAUHnoiMf2gpq55,Portugal,"['Van Zee', 'FRANKIEONTHEGUITAR']",Portuguese
+Habibi,Dillaz,O Próprio,2024-02-16,53,31w82iq7jsYmPAsM8YChIy,Portugal,[],Portuguese
+Game Over,No Maka,Game Over,2024-09-19,34,00rG52fVU3VmAUqRqH4dQA,Portugal,"['Umbelino', 'Mara Cortez']",Portuguese
+Tata,Slow J,Afro Fado,2023-11-24,58,0fPOFtS7ZylYKcC9b64cSj,Portugal,[],Portuguese
+Brutos Diamantes,SYRO,11 11,2023-11-11,52,0Mt4MqKdU2Z5wcBE9vybbi,Portugal,['Bispo'],Portuguese
+Alô,Dillaz,O Próprio,2024-02-16,60,6vBuEFImAx36hDYiYqBtkZ,Portugal,['Plutonio'],Portuguese
+Chamadas,Ivandro,Chamadas,2023-09-29,43,5qp0l5NUFRlwLuDs9Xxogv,Portugal,['Van Zee'],Portuguese
+Sozinho,No Maka,Sozinho,2024-06-20,37,6FRjQPBZ4pEdKWGSCSgeh8,Portugal,['Mike Flowers'],Portuguese
+Brutos Diamantes,SYRO,Brutos Diamantes,2023-11-10,41,2Dn1EJ0AQAWSgl3cyeJK3V,Portugal,['Bispo'],Portuguese
+Gone,Noble,Gone (all over again),2024-11-15,27,1NoE4Z0ovRDSxk8pk6vmbK,Portugal,[],Portuguese
+Designer,Brytiago,Trap Vibes,2023-05-18,25,3nuv4KFJCze5vcQC7kBBz3,Portugal,[],Portuguese
+Contra Probabilidades,Bispo,Contra Probabilidades,2024-06-21,54,5nYYQ85x9DwEiEpETQNlNC,Portugal,['Julinho Ksd'],Portuguese
+Fica,Umbelino,Fica,2025-01-16,23,71aUNoaXhwTWfLdWkHCMDW,Portugal,[],Portuguese
+Amor De Ganga,Miguel Luz,Amor De Ganga,2024-10-22,55,2y5mEYDDPoQCgz55sP3eUz,Portugal,[],Portuguese
+Rosa,Nuno Ribeiro,Rosa (feat. CONAN OSIRIS),2024-03-08,48,0w224dseDmkVEslHsZfkG3,Portugal,['CONAN OSIRIS'],Portuguese
+Juro,Meninos do Rio,Juro,2024-11-29,22,7ttSjpnePc2S7mCCo5kmWn,Portugal,[],Portuguese
+"Ela não sabe, pois não?",Bárbara Tinoco,Bichinho (para onde vai o amor?),2024-05-31,52,10xWn4Ju0hK96COGlHm70s,Portugal,[],Portuguese
+Foragido,João Couto,Foragido,2025-01-09,11,7Co4IqAHSmekeIWGLQgNB3,Portugal,[],Portuguese
+UH LA LA LA,LON3R JOHNY,ANTI$$OCIAL,2023-04-01,0,7zogy2wgR1sOBYLx9ouhcq,Portugal,['Plutonio'],Portuguese
+Ultimamente,Slow J,Afro Fado,2023-11-24,49,2OXcFFTAhcpElg1ZMAqLB7,Portugal,[],Portuguese
+Reykjavík,David Derekh,isto não é um álbum.,2024-12-12,28,7HZhe5Kycx0Zl43gCqNqSK,Portugal,[],Portuguese
+Carro,Bárbara Bandeira,Finda,2023-10-06,54,5yS8wgwBnmjpXwGislck0n,Portugal,['Dillaz'],Portuguese
+Até ao Fim,Maninho,Até ao Fim,2023-11-03,55,0KVuFaXvgC5v4xRlSIiitI,Portugal,[],Portuguese
+One Day,Regal Noise,One Day,2025-01-17,27,2OifWaGYwh3HrPJA7yUTcY,Portugal,[],Portuguese
+to my younger self,Alexa Kate,wishing you well,2024-07-12,25,7bhGAnmxEerfeUrSIJO4xT,Portugal,[],Portuguese
+2 passos,bruno barbosa,2 passos,2024-11-22,11,5kagX7IdYbVbJKtL0cBuQM,Portugal,[],Portuguese
+Não Me Importa,Afro Connexion,Não Me Importa,2024-11-22,35,25kY6gmdHHbBNaMFvu2pnP,Portugal,['Tommy Guitar'],Portuguese
+Romance de Balcão - André Henriques Remix,ÁTOA,Romance de Balcão (André Henriques Remix),2024-10-18,21,1IEeqO3re8gxnjEQbKx3wr,Portugal,"['André Henriques', 'Grupo Académico Seistetos (Universidade Évora)']",Portuguese
+Alma Nua,Van Zee,Alma Nua,2022-12-16,45,6qqCZliorzZbHI6HWM02g1,Portugal,[],Portuguese
+A Sós,RAFA MARTINI,A Sós,2024-10-10,24,6HzHacIoDT4rikjvmDu9aS,Portugal,[],Portuguese
+Dois,Fernando Daniel,Dois,2024-03-15,42,4eYWyX4X4InIx1QnKkv3UI,Portugal,[],Portuguese
+Amor de Ferro,Diogo Piçarra,Amor de Ferro,2024-02-22,44,7LET87zmdD3hHXmijQwR9r,Portugal,['Pedro Abrunhosa'],Portuguese
+Tranquilo,No Maka,Tranquilo,2023-09-29,36,07AubG1Lics5ehjbcFncCK,Portugal,['Mike Flowers'],Portuguese
+Woman,Charli Elle,Woman,2023-11-03,19,5b69cWDK4rXk94G8sM5GCL,Portugal,[],Portuguese
+Daydreaming,Bruklin,Daydreaming,2024-10-16,18,4MbbPlazYHz892lbnWPelv,Portugal,[],Portuguese
+Maria Joana,Nuno Ribeiro,Maria Joana,2023-04-14,54,4yY22pTpZ7qqOEGUtbE6D4,Portugal,"['Calema', 'Mariza']",Portuguese
+Quem Sou Eu,Rafael Abrantes,Quem Sou Eu,2024-10-25,22,79eXUmnWzmai1lNpbipH1p,Portugal,[],Portuguese
+PIÑA COLADA,LON3R JOHNY,PIÑA COLADA,2023-07-29,52,4r4PT8ztky9NfGINelXcxM,Portugal,['Plutonio'],Portuguese
+Eu e Tu,Mike11,Eu e Tu,2024-07-05,38,4YN0S8r2onJGCiPdVrMh8A,Portugal,['D.A.M.A'],Portuguese
+É o que é,Nena,É o que é,2024-02-02,36,4H4l9EBvtbj5Z18TsXTTSc,Portugal,[],Portuguese
+Garota,Maninho,Garota (feat. Marisa Liz),2024-06-07,54,3YsnklkstFoHWUNw6Oqici,Portugal,['Marisa Liz'],Portuguese
+Nota 100,No Maka,Nota 100,2018-05-31,34,3OrekJKG24QIq5Djxzl2vW,Portugal,['Laton'],Portuguese
+Planeta,Bispo,Planeta,2023-03-24,52,0r1WiGIHk8ys95AvbqCbwW,Portugal,['Bárbara Tinoco'],Portuguese
+Amanhã De Manhã - Remix,Doce,Amanhã de Manhã (André Henriques Remix),2024-05-24,24,5DPU5U07c12sZ4ueOn9SHq,Portugal,['André Henriques'],Portuguese
+Outro Planeta,Virgul,Outro Planeta,2024-07-05,43,5gowKvKBEEpQhdAL2Qklhe,Portugal,[],Portuguese
+Look,Brada,Culture,2024-07-19,20,53EtySiG6D0m9GFSaVJPQa,Portugal,['Andreaa'],Portuguese
+#Sextou,No Maka,#Sextou,2019-06-28,27,0SOPsClC3TtTEmfUjo2nba,Portugal,"['ILBF', 'Favela Lacroix']",Portuguese
+casa,Fernando Daniel,V.H.S (vol.1),2023-05-26,51,53gXl8SihJLcFeC2D8g6ry,Portugal,[],Portuguese
+Cura,ECSTAZZZ,Cura,2024-11-01,22,7JFuGg6JP0OgWwiCQnFsL3,Portugal,[],Portuguese
+Chakras,Ivandro,Chakras,2023-04-28,47,3dbWR5RYjRmbtY6QIGNUs4,Portugal,['Julinho Ksd'],Portuguese
+Caladinho,Mickael Carreira,Caladinho,2023-11-10,39,3C4Em4onvpJL4OlamGdlMD,Portugal,[],Portuguese
+A Nossa Dança,Calema,A Nossa Dança,2023-04-06,57,0xKBEEJwpjaLn1QhCdyKcf,Portugal,[],Portuguese
+Chamada não Atendida,Bárbara Tinoco,Bichinho,2023-04-21,46,0qOdDzi89OD7CBnCivfHEf,Portugal,[],Portuguese
+Loucamente,D.A.M.A,Loucamente,2023-05-12,47,7dmP18O7QHHwf2VXjBauJ3,Portugal,['Los Romeros'],Portuguese
+Noite,Ivandro,Noite,2023-11-17,44,2v21Q5ape3sbMXCNBX7NIy,Portugal,['Vitor Kley'],Portuguese
+0044,LON3R JOHNY,LONDON LP,2025-01-09,54,7cfIbKCASPe9FDhYjaQnDd,Portugal,['ProfJam'],Portuguese

@@ -1,4 +1,4 @@
-from .transformations import remove_features_from_track_name, add_features_column, remove_features_from_artist_name
+from .transformations import remove_features_from_track_name, add_features_column, remove_features_from_artist_name, add_languages_column
 import pandas as pd
 
 def transform():
@@ -11,5 +11,7 @@ def transform():
     df = add_features_column(df)
     #remove features from artist_name
     df = remove_features_from_artist_name(df)
+    #add languages column
+    df = add_languages_column(df)
     #save to csv
     df.to_csv(f'etl/data/{filename_output}', index=False)
